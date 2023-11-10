@@ -1,0 +1,4002 @@
+[
+  {
+    "tradeId": "3642007",
+    "price": "2092980.00",
+    "quote_volume": 27849.83,
+    "base_volume": 0.01327312,
+    "timestamp": 1660309490000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3642005",
+    "price": "2072000.04",
+    "quote_volume": 49.67,
+    "base_volume": 2.391e-5,
+    "timestamp": 1660309090000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3642003",
+    "price": "2092365.66",
+    "quote_volume": 50.15,
+    "base_volume": 2.391e-5,
+    "timestamp": 1660309074000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3642001",
+    "price": "2072000.03",
+    "quote_volume": 51.2,
+    "base_volume": 2.465e-5,
+    "timestamp": 1660309051000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641999",
+    "price": "2072000.03",
+    "quote_volume": 44.18,
+    "base_volume": 2.127e-5,
+    "timestamp": 1660309040000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641997",
+    "price": "2113909.80",
+    "quote_volume": 45.08,
+    "base_volume": 2.127e-5,
+    "timestamp": 1660309024000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641995",
+    "price": "2072000.04",
+    "quote_volume": 45.55,
+    "base_volume": 2.193e-5,
+    "timestamp": 1660309009000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641993",
+    "price": "2092980.00",
+    "quote_volume": 51.72,
+    "base_volume": 2.465e-5,
+    "timestamp": 1660308999000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641991",
+    "price": "2092980.00",
+    "quote_volume": 46.01,
+    "base_volume": 2.193e-5,
+    "timestamp": 1660308992000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641989",
+    "price": "2072000.04",
+    "quote_volume": 30.14,
+    "base_volume": 1.451e-5,
+    "timestamp": 1660308963000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641987",
+    "price": "2092980.00",
+    "quote_volume": 30.45,
+    "base_volume": 1.451e-5,
+    "timestamp": 1660308950000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641985",
+    "price": "2092980.00",
+    "quote_volume": 835.99,
+    "base_volume": 0.00039843,
+    "timestamp": 1660308894000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641983",
+    "price": "2076267.78",
+    "quote_volume": 128.43,
+    "base_volume": 6.17e-5,
+    "timestamp": 1660308807000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641981",
+    "price": "2076267.78",
+    "quote_volume": 47446.95,
+    "base_volume": 0.02279505,
+    "timestamp": 1660308797000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641979",
+    "price": "2076267.78",
+    "quote_volume": 128.88,
+    "base_volume": 6.192e-5,
+    "timestamp": 1660308676000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641977",
+    "price": "2092980.00",
+    "quote_volume": 1999.97,
+    "base_volume": 0.00095318,
+    "timestamp": 1660308662000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641975",
+    "price": "2091743.27",
+    "quote_volume": 286.55,
+    "base_volume": 0.00013665,
+    "timestamp": 1660308624000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641973",
+    "price": "2091743.27",
+    "quote_volume": 348.58,
+    "base_volume": 0.00016623,
+    "timestamp": 1660308608000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641971",
+    "price": "2074932.54",
+    "quote_volume": 46.93,
+    "base_volume": 2.256e-5,
+    "timestamp": 1660308558000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641969",
+    "price": "2091743.27",
+    "quote_volume": 34.89,
+    "base_volume": 1.664e-5,
+    "timestamp": 1660308551000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641967",
+    "price": "2074932.54",
+    "quote_volume": 86.1,
+    "base_volume": 4.139e-5,
+    "timestamp": 1660308548000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641965",
+    "price": "2074932.54",
+    "quote_volume": 5.47,
+    "base_volume": 2.63e-6,
+    "timestamp": 1660308541000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641963",
+    "price": "2091743.27",
+    "quote_volume": 47.31,
+    "base_volume": 2.256e-5,
+    "timestamp": 1660308541000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641961",
+    "price": "2091743.27",
+    "quote_volume": 52.82,
+    "base_volume": 2.519e-5,
+    "timestamp": 1660308489000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641959",
+    "price": "2091743.27",
+    "quote_volume": 170.55,
+    "base_volume": 8.133e-5,
+    "timestamp": 1660308411000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641957",
+    "price": "2074932.53",
+    "quote_volume": 717981.2,
+    "base_volume": 0.34516338,
+    "timestamp": 1660308260000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641955",
+    "price": "2092980.00",
+    "quote_volume": 179.77,
+    "base_volume": 8.568e-5,
+    "timestamp": 1660308217000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641953",
+    "price": "2076767.31",
+    "quote_volume": 48.28,
+    "base_volume": 2.319e-5,
+    "timestamp": 1660308191000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641951",
+    "price": "2092980.00",
+    "quote_volume": 99.98,
+    "base_volume": 4.765e-5,
+    "timestamp": 1660308174000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641949",
+    "price": "2092980.00",
+    "quote_volume": 48.66,
+    "base_volume": 2.319e-5,
+    "timestamp": 1660308174000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641947",
+    "price": "2076767.31",
+    "quote_volume": 103.02,
+    "base_volume": 4.948e-5,
+    "timestamp": 1660308130000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641945",
+    "price": "2092980.00",
+    "quote_volume": 99.98,
+    "base_volume": 4.765e-5,
+    "timestamp": 1660308062000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641943",
+    "price": "2076767.30",
+    "quote_volume": 100.56,
+    "base_volume": 4.83e-5,
+    "timestamp": 1660307996000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641941",
+    "price": "2076767.31",
+    "quote_volume": 100.56,
+    "base_volume": 4.83e-5,
+    "timestamp": 1660307991000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641939",
+    "price": "2092980.00",
+    "quote_volume": 588.11,
+    "base_volume": 0.00028029,
+    "timestamp": 1660307908000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641937",
+    "price": "2076767.30",
+    "quote_volume": 143672.55,
+    "base_volume": 0.06900834,
+    "timestamp": 1660307882000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641935",
+    "price": "2076767.30",
+    "quote_volume": 266.49,
+    "base_volume": 0.000128,
+    "timestamp": 1660307850000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641933",
+    "price": "2092980.00",
+    "quote_volume": 268.57,
+    "base_volume": 0.000128,
+    "timestamp": 1660307820000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641931",
+    "price": "2092781.17",
+    "quote_volume": 99.95,
+    "base_volume": 4.764e-5,
+    "timestamp": 1660307711000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641929",
+    "price": "2092781.17",
+    "quote_volume": 99.95,
+    "base_volume": 4.764e-5,
+    "timestamp": 1660307706000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641927",
+    "price": "2092781.17",
+    "quote_volume": 99.95,
+    "base_volume": 4.764e-5,
+    "timestamp": 1660307701000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641925",
+    "price": "2092781.17",
+    "quote_volume": 99.95,
+    "base_volume": 4.764e-5,
+    "timestamp": 1660307701000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641923",
+    "price": "2092781.17",
+    "quote_volume": 99.95,
+    "base_volume": 4.764e-5,
+    "timestamp": 1660307696000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641921",
+    "price": "2092781.17",
+    "quote_volume": 99.95,
+    "base_volume": 4.764e-5,
+    "timestamp": 1660307691000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641919",
+    "price": "2075999.68",
+    "quote_volume": 29938.81,
+    "base_volume": 0.01438543,
+    "timestamp": 1660307505000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641917",
+    "price": "2075702.77",
+    "quote_volume": 209.36,
+    "base_volume": 0.00010061,
+    "timestamp": 1660307471000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641915",
+    "price": "2075702.77",
+    "quote_volume": 100.55,
+    "base_volume": 4.832e-5,
+    "timestamp": 1660307466000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641913",
+    "price": "2075702.77",
+    "quote_volume": 100.55,
+    "base_volume": 4.832e-5,
+    "timestamp": 1660307461000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641911",
+    "price": "2075702.77",
+    "quote_volume": 100.55,
+    "base_volume": 4.832e-5,
+    "timestamp": 1660307461000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641909",
+    "price": "2075702.77",
+    "quote_volume": 100.55,
+    "base_volume": 4.832e-5,
+    "timestamp": 1660307456000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641907",
+    "price": "2075702.77",
+    "quote_volume": 100.55,
+    "base_volume": 4.832e-5,
+    "timestamp": 1660307456000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641905",
+    "price": "2075702.77",
+    "quote_volume": 100.57,
+    "base_volume": 4.833e-5,
+    "timestamp": 1660307451000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641903",
+    "price": "2075702.77",
+    "quote_volume": 21.45,
+    "base_volume": 1.031e-5,
+    "timestamp": 1660307446000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641901",
+    "price": "2076000.00",
+    "quote_volume": 79.13,
+    "base_volume": 3.802e-5,
+    "timestamp": 1660307446000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641899",
+    "price": "2076000.00",
+    "quote_volume": 100.71,
+    "base_volume": 4.839e-5,
+    "timestamp": 1660307441000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641897",
+    "price": "2076000.00",
+    "quote_volume": 100.71,
+    "base_volume": 4.839e-5,
+    "timestamp": 1660307431000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641895",
+    "price": "2076000.00",
+    "quote_volume": 100.71,
+    "base_volume": 4.839e-5,
+    "timestamp": 1660307421000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641893",
+    "price": "2076000.00",
+    "quote_volume": 100.71,
+    "base_volume": 4.839e-5,
+    "timestamp": 1660307416000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641891",
+    "price": "2092402.63",
+    "quote_volume": 72983.95,
+    "base_volume": 0.03479347,
+    "timestamp": 1660307360000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641889",
+    "price": "2076000.00",
+    "quote_volume": 49.66,
+    "base_volume": 2.386e-5,
+    "timestamp": 1660307258000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641887",
+    "price": "2092834.87",
+    "quote_volume": 50.06,
+    "base_volume": 2.386e-5,
+    "timestamp": 1660307239000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641885",
+    "price": "2092267.94",
+    "quote_volume": 46329.05,
+    "base_volume": 0.02208776,
+    "timestamp": 1660307011000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641883",
+    "price": "2076000.00",
+    "quote_volume": 51.07,
+    "base_volume": 2.454e-5,
+    "timestamp": 1660306816000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641881",
+    "price": "2089559.20",
+    "quote_volume": 51.41,
+    "base_volume": 2.454e-5,
+    "timestamp": 1660306802000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641879",
+    "price": "2087150.65",
+    "quote_volume": 221.46,
+    "base_volume": 0.00010584,
+    "timestamp": 1660306725000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641877",
+    "price": "2076000.00",
+    "quote_volume": 191.76,
+    "base_volume": 9.214e-5,
+    "timestamp": 1660306711000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641875",
+    "price": "2076000.08",
+    "quote_volume": 34.17,
+    "base_volume": 1.642e-5,
+    "timestamp": 1660306711000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641873",
+    "price": "2087150.65",
+    "quote_volume": 190254.13,
+    "base_volume": 0.09092764,
+    "timestamp": 1660306687000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641871",
+    "price": "2086353.96",
+    "quote_volume": 323.78,
+    "base_volume": 0.0001548,
+    "timestamp": 1660306496000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641869",
+    "price": "2086353.96",
+    "quote_volume": 498.78,
+    "base_volume": 0.00023847,
+    "timestamp": 1660306478000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641867",
+    "price": "2076000.08",
+    "quote_volume": 86.49,
+    "base_volume": 4.156e-5,
+    "timestamp": 1660306445000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641865",
+    "price": "2076000.08",
+    "quote_volume": 373.05,
+    "base_volume": 0.00017925,
+    "timestamp": 1660306424000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641863",
+    "price": "2086353.96",
+    "quote_volume": 86.93,
+    "base_volume": 4.156e-5,
+    "timestamp": 1660306400000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641861",
+    "price": "2076000.08",
+    "quote_volume": 52.45,
+    "base_volume": 2.52e-5,
+    "timestamp": 1660306388000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641859",
+    "price": "2086353.96",
+    "quote_volume": 52.71,
+    "base_volume": 2.52e-5,
+    "timestamp": 1660306371000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641857",
+    "price": "2076000.08",
+    "quote_volume": 53.82,
+    "base_volume": 2.586e-5,
+    "timestamp": 1660306356000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641855",
+    "price": "2086353.96",
+    "quote_volume": 54.09,
+    "base_volume": 2.586e-5,
+    "timestamp": 1660306343000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641853",
+    "price": "2076000.00",
+    "quote_volume": 88.68,
+    "base_volume": 4.261e-5,
+    "timestamp": 1660306297000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641851",
+    "price": "2076000.00",
+    "quote_volume": 459.01,
+    "base_volume": 0.00022055,
+    "timestamp": 1660306269000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641849",
+    "price": "2076000.00",
+    "quote_volume": 93.84,
+    "base_volume": 4.509e-5,
+    "timestamp": 1660306152000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641847",
+    "price": "2088295.07",
+    "quote_volume": 94.4,
+    "base_volume": 4.509e-5,
+    "timestamp": 1660306135000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641845",
+    "price": "2088295.07",
+    "quote_volume": 331991.77,
+    "base_volume": 0.15858097,
+    "timestamp": 1660306126000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641843",
+    "price": "2082909.28",
+    "quote_volume": 24.95,
+    "base_volume": 1.195e-5,
+    "timestamp": 1660306007000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641841",
+    "price": "2082909.28",
+    "quote_volume": 49.91,
+    "base_volume": 2.39e-5,
+    "timestamp": 1660305985000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641839",
+    "price": "2082909.28",
+    "quote_volume": 99.81,
+    "base_volume": 4.78e-5,
+    "timestamp": 1660305949000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641837",
+    "price": "2076000.00",
+    "quote_volume": 55.26,
+    "base_volume": 2.655e-5,
+    "timestamp": 1660305941000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641835",
+    "price": "2076000.00",
+    "quote_volume": 99.42,
+    "base_volume": 4.777e-5,
+    "timestamp": 1660305927000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641833",
+    "price": "2082909.28",
+    "quote_volume": 55.44,
+    "base_volume": 2.655e-5,
+    "timestamp": 1660305921000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641831",
+    "price": "2082909.28",
+    "quote_volume": 199.62,
+    "base_volume": 9.56e-5,
+    "timestamp": 1660305912000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641829",
+    "price": "2076000.00",
+    "quote_volume": 19.06,
+    "base_volume": 9.16e-6,
+    "timestamp": 1660305909000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641827",
+    "price": "2076000.00",
+    "quote_volume": 56.63,
+    "base_volume": 2.721e-5,
+    "timestamp": 1660305906000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641825",
+    "price": "2082909.28",
+    "quote_volume": 56.82,
+    "base_volume": 2.721e-5,
+    "timestamp": 1660305893000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641823",
+    "price": "2082909.28",
+    "quote_volume": 99.75,
+    "base_volume": 4.777e-5,
+    "timestamp": 1660305892000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641821",
+    "price": "2076000.00",
+    "quote_volume": 58.04,
+    "base_volume": 2.789e-5,
+    "timestamp": 1660305877000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641819",
+    "price": "2076000.00",
+    "quote_volume": 1886.91,
+    "base_volume": 0.00090665,
+    "timestamp": 1660305874000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641817",
+    "price": "2082909.28",
+    "quote_volume": 58.24,
+    "base_volume": 2.789e-5,
+    "timestamp": 1660305863000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641815",
+    "price": "2076000.00",
+    "quote_volume": 59.48,
+    "base_volume": 2.858e-5,
+    "timestamp": 1660305847000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641813",
+    "price": "2084852.14",
+    "quote_volume": 80.63,
+    "base_volume": 3.858e-5,
+    "timestamp": 1660305840000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641811",
+    "price": "2084852.14",
+    "quote_volume": 59.73,
+    "base_volume": 2.858e-5,
+    "timestamp": 1660305829000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641809",
+    "price": "2076000.00",
+    "quote_volume": 858.99,
+    "base_volume": 0.00041274,
+    "timestamp": 1660305696000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641807",
+    "price": "2084852.14",
+    "quote_volume": 33258.69,
+    "base_volume": 0.01591276,
+    "timestamp": 1660305673000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641805",
+    "price": "2084852.14",
+    "quote_volume": 149.96,
+    "base_volume": 7.175e-5,
+    "timestamp": 1660305661000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641803",
+    "price": "2076000.00",
+    "quote_volume": 60.94,
+    "base_volume": 2.928e-5,
+    "timestamp": 1660305573000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641801",
+    "price": "2076000.00",
+    "quote_volume": 108.08,
+    "base_volume": 5.193e-5,
+    "timestamp": 1660305567000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641799",
+    "price": "2084852.14",
+    "quote_volume": 61.2,
+    "base_volume": 2.928e-5,
+    "timestamp": 1660305559000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641797",
+    "price": "2076000.00",
+    "quote_volume": 121.98,
+    "base_volume": 5.861e-5,
+    "timestamp": 1660305533000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641795",
+    "price": "2084852.14",
+    "quote_volume": 122.5,
+    "base_volume": 5.861e-5,
+    "timestamp": 1660305517000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641793",
+    "price": "2076000.00",
+    "quote_volume": 54.03,
+    "base_volume": 2.596e-5,
+    "timestamp": 1660305497000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641791",
+    "price": "2076100.00",
+    "quote_volume": 70.89,
+    "base_volume": 3.406e-5,
+    "timestamp": 1660305497000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641789",
+    "price": "2084852.14",
+    "quote_volume": 125.45,
+    "base_volume": 6.002e-5,
+    "timestamp": 1660305479000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641787",
+    "price": "2076100.00",
+    "quote_volume": 82.25,
+    "base_volume": 3.952e-5,
+    "timestamp": 1660305414000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641785",
+    "price": "2083874.11",
+    "quote_volume": 499.96,
+    "base_volume": 0.00023932,
+    "timestamp": 1660305361000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641783",
+    "price": "2076100.00",
+    "quote_volume": 30.68,
+    "base_volume": 1.474e-5,
+    "timestamp": 1660305331000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641781",
+    "price": "2083874.11",
+    "quote_volume": 30.79,
+    "base_volume": 1.474e-5,
+    "timestamp": 1660305313000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641779",
+    "price": "2083874.11",
+    "quote_volume": 199.51,
+    "base_volume": 9.55e-5,
+    "timestamp": 1660305268000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641777",
+    "price": "2083874.11",
+    "quote_volume": 322.87,
+    "base_volume": 0.00015455,
+    "timestamp": 1660305252000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641775",
+    "price": "2076100.00",
+    "quote_volume": 62.44,
+    "base_volume": 3e-5,
+    "timestamp": 1660305231000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641773",
+    "price": "2076100.00",
+    "quote_volume": 31.05,
+    "base_volume": 1.492e-5,
+    "timestamp": 1660305224000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641771",
+    "price": "2083874.11",
+    "quote_volume": 31.17,
+    "base_volume": 1.492e-5,
+    "timestamp": 1660305210000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641769",
+    "price": "2083874.11",
+    "quote_volume": 84345.23,
+    "base_volume": 0.04037427,
+    "timestamp": 1660305208000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641767",
+    "price": "2083874.11",
+    "quote_volume": 62.67,
+    "base_volume": 3e-5,
+    "timestamp": 1660305187000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641765",
+    "price": "2076100.00",
+    "quote_volume": 63.9,
+    "base_volume": 3.07e-5,
+    "timestamp": 1660305173000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641763",
+    "price": "2083874.11",
+    "quote_volume": 64.13,
+    "base_volume": 3.07e-5,
+    "timestamp": 1660305160000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641761",
+    "price": "2076100.00",
+    "quote_volume": 59.77,
+    "base_volume": 2.872e-5,
+    "timestamp": 1660305146000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641759",
+    "price": "2076100.00",
+    "quote_volume": 5.66,
+    "base_volume": 2.72e-6,
+    "timestamp": 1660305146000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641757",
+    "price": "2084433.99",
+    "quote_volume": 65.7,
+    "base_volume": 3.144e-5,
+    "timestamp": 1660305132000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641755",
+    "price": "2084433.99",
+    "quote_volume": 30.88,
+    "base_volume": 1.478e-5,
+    "timestamp": 1660305046000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641753",
+    "price": "2084433.99",
+    "quote_volume": 74606.1,
+    "base_volume": 0.03570276,
+    "timestamp": 1660304956000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641751",
+    "price": "2076100.00",
+    "quote_volume": 67,
+    "base_volume": 3.219e-5,
+    "timestamp": 1660304799000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641749",
+    "price": "2084627.66",
+    "quote_volume": 67.27,
+    "base_volume": 3.219e-5,
+    "timestamp": 1660304784000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641747",
+    "price": "2084627.66",
+    "quote_volume": 226.87,
+    "base_volume": 0.00010856,
+    "timestamp": 1660304741000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641745",
+    "price": "2076100.00",
+    "quote_volume": 31.84,
+    "base_volume": 1.53e-5,
+    "timestamp": 1660304736000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641743",
+    "price": "2084627.66",
+    "quote_volume": 31.97,
+    "base_volume": 1.53e-5,
+    "timestamp": 1660304720000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641741",
+    "price": "2076100.00",
+    "quote_volume": 34.65,
+    "base_volume": 1.665e-5,
+    "timestamp": 1660304612000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641739",
+    "price": "2076100.00",
+    "quote_volume": 53.91,
+    "base_volume": 2.59e-5,
+    "timestamp": 1660304573000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641737",
+    "price": "2081455.87",
+    "quote_volume": 54.04,
+    "base_volume": 2.59e-5,
+    "timestamp": 1660304557000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641735",
+    "price": "2081455.87",
+    "quote_volume": 34.74,
+    "base_volume": 1.665e-5,
+    "timestamp": 1660304513000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641733",
+    "price": "2078674.95",
+    "quote_volume": 21919.43,
+    "base_volume": 0.01051861,
+    "timestamp": 1660304362000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641731",
+    "price": "2076100.00",
+    "quote_volume": 68.62,
+    "base_volume": 3.297e-5,
+    "timestamp": 1660304245000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641729",
+    "price": "2081829.13",
+    "quote_volume": 68.81,
+    "base_volume": 3.297e-5,
+    "timestamp": 1660304229000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641727",
+    "price": "2081829.13",
+    "quote_volume": 1349.98,
+    "base_volume": 0.00064684,
+    "timestamp": 1660304221000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641725",
+    "price": "2081829.13",
+    "quote_volume": 498.74,
+    "base_volume": 0.00023897,
+    "timestamp": 1660304198000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641723",
+    "price": "2076100.00",
+    "quote_volume": 231.44,
+    "base_volume": 0.0001112,
+    "timestamp": 1660304104000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641721",
+    "price": "2084403.18",
+    "quote_volume": 135.49,
+    "base_volume": 6.484e-5,
+    "timestamp": 1660304103000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641719",
+    "price": "2084403.18",
+    "quote_volume": 1192309.55,
+    "base_volume": 0.57058837,
+    "timestamp": 1660303929000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641717",
+    "price": "2076100.00",
+    "quote_volume": 64.27,
+    "base_volume": 3.088e-5,
+    "timestamp": 1660303927000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641715",
+    "price": "2088141.01",
+    "quote_volume": 64.64,
+    "base_volume": 3.088e-5,
+    "timestamp": 1660303913000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641713",
+    "price": "2088141.01",
+    "quote_volume": 499.98,
+    "base_volume": 0.00023884,
+    "timestamp": 1660303862000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641711",
+    "price": "2076100.00",
+    "quote_volume": 44.79,
+    "base_volume": 2.152e-5,
+    "timestamp": 1660303817000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641709",
+    "price": "2076613.03",
+    "quote_volume": 25.44,
+    "base_volume": 1.222e-5,
+    "timestamp": 1660303817000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641707",
+    "price": "2090183.35",
+    "quote_volume": 70.7,
+    "base_volume": 3.374e-5,
+    "timestamp": 1660303799000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641705",
+    "price": "2076613.03",
+    "quote_volume": 32.16,
+    "base_volume": 1.545e-5,
+    "timestamp": 1660303796000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641703",
+    "price": "2090183.35",
+    "quote_volume": 32.37,
+    "base_volume": 1.545e-5,
+    "timestamp": 1660303780000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641701",
+    "price": "2090183.35",
+    "quote_volume": 66019.33,
+    "base_volume": 0.03150666,
+    "timestamp": 1660303759000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641699",
+    "price": "2076613.03",
+    "quote_volume": 99.43,
+    "base_volume": 4.776e-5,
+    "timestamp": 1660303743000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641697",
+    "price": "2076613.03",
+    "quote_volume": 81.13,
+    "base_volume": 3.897e-5,
+    "timestamp": 1660303405000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641695",
+    "price": "2089774.88",
+    "quote_volume": 81.64,
+    "base_volume": 3.897e-5,
+    "timestamp": 1660303386000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641693",
+    "price": "2076613.03",
+    "quote_volume": 72.13,
+    "base_volume": 3.465e-5,
+    "timestamp": 1660303369000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641691",
+    "price": "2089774.88",
+    "quote_volume": 72.59,
+    "base_volume": 3.465e-5,
+    "timestamp": 1660303354000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641689",
+    "price": "2076613.03",
+    "quote_volume": 74.05,
+    "base_volume": 3.557e-5,
+    "timestamp": 1660303339000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641687",
+    "price": "2089774.88",
+    "quote_volume": 74.52,
+    "base_volume": 3.557e-5,
+    "timestamp": 1660303322000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641685",
+    "price": "2076613.03",
+    "quote_volume": 1391.89,
+    "base_volume": 0.0006686,
+    "timestamp": 1660303022000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641683",
+    "price": "2076613.03",
+    "quote_volume": 76.15,
+    "base_volume": 3.658e-5,
+    "timestamp": 1660302975000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641681",
+    "price": "2092980.00",
+    "quote_volume": 76.75,
+    "base_volume": 3.658e-5,
+    "timestamp": 1660302961000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641679",
+    "price": "2076100.00",
+    "quote_volume": 147.56,
+    "base_volume": 7.09e-5,
+    "timestamp": 1660302844000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641677",
+    "price": "2076100.00",
+    "quote_volume": 147.04,
+    "base_volume": 7.065e-5,
+    "timestamp": 1660302774000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641675",
+    "price": "2092613.03",
+    "quote_volume": 28.82,
+    "base_volume": 1.374e-5,
+    "timestamp": 1660302771000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641673",
+    "price": "2092613.03",
+    "quote_volume": 462.68,
+    "base_volume": 0.00022055,
+    "timestamp": 1660302719000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641671",
+    "price": "2076100.00",
+    "quote_volume": 78.3,
+    "base_volume": 3.762e-5,
+    "timestamp": 1660302662000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641669",
+    "price": "2092980.00",
+    "quote_volume": 78.93,
+    "base_volume": 3.762e-5,
+    "timestamp": 1660302648000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641667",
+    "price": "2092980.00",
+    "quote_volume": 368.07,
+    "base_volume": 0.00017542,
+    "timestamp": 1660302606000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641665",
+    "price": "2076100.00",
+    "quote_volume": 33.51,
+    "base_volume": 1.61e-5,
+    "timestamp": 1660302549000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641663",
+    "price": "2092980.00",
+    "quote_volume": 33.78,
+    "base_volume": 1.61e-5,
+    "timestamp": 1660302534000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641661",
+    "price": "2076100.00",
+    "quote_volume": 9.64,
+    "base_volume": 4.63e-6,
+    "timestamp": 1660302529000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641659",
+    "price": "2080742.81",
+    "quote_volume": 21.01,
+    "base_volume": 1.007e-5,
+    "timestamp": 1660302529000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641657",
+    "price": "2092980.00",
+    "quote_volume": 30.84,
+    "base_volume": 1.47e-5,
+    "timestamp": 1660302509000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641655",
+    "price": "2080793.00",
+    "quote_volume": 2332.33,
+    "base_volume": 0.00111809,
+    "timestamp": 1660302508000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641653",
+    "price": "2080793.00",
+    "quote_volume": 31.48,
+    "base_volume": 1.509e-5,
+    "timestamp": 1660302411000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641651",
+    "price": "2092980.00",
+    "quote_volume": 31.66,
+    "base_volume": 1.509e-5,
+    "timestamp": 1660302373000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641649",
+    "price": "2080793.00",
+    "quote_volume": 80.54,
+    "base_volume": 3.861e-5,
+    "timestamp": 1660302230000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641647",
+    "price": "2092547.01",
+    "quote_volume": 105.22,
+    "base_volume": 5.016e-5,
+    "timestamp": 1660302229000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641645",
+    "price": "2092547.01",
+    "quote_volume": 81,
+    "base_volume": 3.861e-5,
+    "timestamp": 1660302216000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641643",
+    "price": "2080793.00",
+    "quote_volume": 80.35,
+    "base_volume": 3.852e-5,
+    "timestamp": 1660302182000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641641",
+    "price": "2089398.11",
+    "quote_volume": 10.83,
+    "base_volume": 5.17e-6,
+    "timestamp": 1660302182000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641639",
+    "price": "2092547.01",
+    "quote_volume": 91.65,
+    "base_volume": 4.369e-5,
+    "timestamp": 1660302162000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641637",
+    "price": "2089398.11",
+    "quote_volume": 21.83,
+    "base_volume": 1.042e-5,
+    "timestamp": 1660302147000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641635",
+    "price": "2092547.01",
+    "quote_volume": 597.01,
+    "base_volume": 0.00028459,
+    "timestamp": 1660302102000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641633",
+    "price": "2089398.11",
+    "quote_volume": 206.66,
+    "base_volume": 9.866e-5,
+    "timestamp": 1660302090000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641631",
+    "price": "2092547.01",
+    "quote_volume": 206.97,
+    "base_volume": 9.866e-5,
+    "timestamp": 1660302074000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641629",
+    "price": "2092547.01",
+    "quote_volume": 21.86,
+    "base_volume": 1.042e-5,
+    "timestamp": 1660302071000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641627",
+    "price": "2089597.06",
+    "quote_volume": 438.3,
+    "base_volume": 0.00020923,
+    "timestamp": 1660302055000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641625",
+    "price": "2089398.11",
+    "quote_volume": 211.16,
+    "base_volume": 0.00010081,
+    "timestamp": 1660302054000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641623",
+    "price": "2089398.11",
+    "quote_volume": 45.54,
+    "base_volume": 2.174e-5,
+    "timestamp": 1660302049000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641621",
+    "price": "2092443.13",
+    "quote_volume": 211.47,
+    "base_volume": 0.00010081,
+    "timestamp": 1660302038000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641619",
+    "price": "2092443.13",
+    "quote_volume": 22.82,
+    "base_volume": 1.088e-5,
+    "timestamp": 1660302029000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641617",
+    "price": "2092443.13",
+    "quote_volume": 22.78,
+    "base_volume": 1.086e-5,
+    "timestamp": 1660302027000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641615",
+    "price": "2092443.13",
+    "quote_volume": 79636.63,
+    "base_volume": 0.03796425,
+    "timestamp": 1660301974000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641613",
+    "price": "2085094.98",
+    "quote_volume": 23.24,
+    "base_volume": 1.112e-5,
+    "timestamp": 1660301952000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641611",
+    "price": "2089398.11",
+    "quote_volume": 23.29,
+    "base_volume": 1.112e-5,
+    "timestamp": 1660301930000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641609",
+    "price": "2085094.98",
+    "quote_volume": 82.63,
+    "base_volume": 3.953e-5,
+    "timestamp": 1660301854000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641607",
+    "price": "2085094.98",
+    "quote_volume": 394.15,
+    "base_volume": 0.00018856,
+    "timestamp": 1660301851000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641605",
+    "price": "2094690.58",
+    "quote_volume": 83.01,
+    "base_volume": 3.953e-5,
+    "timestamp": 1660301839000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641603",
+    "price": "2085094.98",
+    "quote_volume": 84.8,
+    "base_volume": 4.057e-5,
+    "timestamp": 1660301822000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641601",
+    "price": "2097357.07",
+    "quote_volume": 724684.38,
+    "base_volume": 0.344661,
+    "timestamp": 1660301807000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641599",
+    "price": "2085094.98",
+    "quote_volume": 61.75,
+    "base_volume": 2.954e-5,
+    "timestamp": 1660301778000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641597",
+    "price": "2097357.07",
+    "quote_volume": 85.3,
+    "base_volume": 4.057e-5,
+    "timestamp": 1660301777000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641595",
+    "price": "2097357.07",
+    "quote_volume": 62.11,
+    "base_volume": 2.954e-5,
+    "timestamp": 1660301761000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641593",
+    "price": "2085094.98",
+    "quote_volume": 87.02,
+    "base_volume": 4.163e-5,
+    "timestamp": 1660301760000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641591",
+    "price": "2097357.07",
+    "quote_volume": 87.53,
+    "base_volume": 4.163e-5,
+    "timestamp": 1660301745000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641589",
+    "price": "2085094.98",
+    "quote_volume": 34.3,
+    "base_volume": 1.641e-5,
+    "timestamp": 1660301653000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641587",
+    "price": "2094629.84",
+    "quote_volume": 34.46,
+    "base_volume": 1.641e-5,
+    "timestamp": 1660301641000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641585",
+    "price": "2085094.98",
+    "quote_volume": 34.74,
+    "base_volume": 1.662e-5,
+    "timestamp": 1660301622000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641583",
+    "price": "2094629.84",
+    "quote_volume": 34.9,
+    "base_volume": 1.662e-5,
+    "timestamp": 1660301603000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641581",
+    "price": "2085094.98",
+    "quote_volume": 35.12,
+    "base_volume": 1.68e-5,
+    "timestamp": 1660301542000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641579",
+    "price": "2098955.71",
+    "quote_volume": 35.35,
+    "base_volume": 1.68e-5,
+    "timestamp": 1660301527000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641577",
+    "price": "2098955.71",
+    "quote_volume": 850.37,
+    "base_volume": 0.00040413,
+    "timestamp": 1660301437000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641575",
+    "price": "2098955.71",
+    "quote_volume": 133.91,
+    "base_volume": 6.364e-5,
+    "timestamp": 1660301431000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641573",
+    "price": "2099361.55",
+    "quote_volume": 133.94,
+    "base_volume": 6.364e-5,
+    "timestamp": 1660301404000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641571",
+    "price": "2098955.71",
+    "quote_volume": 137.53,
+    "base_volume": 6.536e-5,
+    "timestamp": 1660301385000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641569",
+    "price": "2098955.71",
+    "quote_volume": 581.18,
+    "base_volume": 0.0002762,
+    "timestamp": 1660301383000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641567",
+    "price": "2098955.71",
+    "quote_volume": 137.53,
+    "base_volume": 6.536e-5,
+    "timestamp": 1660301365000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641565",
+    "price": "2098955.71",
+    "quote_volume": 75.08,
+    "base_volume": 3.568e-5,
+    "timestamp": 1660301341000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641563",
+    "price": "2085095.00",
+    "quote_volume": 140.32,
+    "base_volume": 6.713e-5,
+    "timestamp": 1660301340000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641561",
+    "price": "2098955.71",
+    "quote_volume": 141.26,
+    "base_volume": 6.713e-5,
+    "timestamp": 1660301317000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641559",
+    "price": "2085094.98",
+    "quote_volume": 27.86,
+    "base_volume": 1.333e-5,
+    "timestamp": 1660301090000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641557",
+    "price": "2098955.71",
+    "quote_volume": 28.05,
+    "base_volume": 1.333e-5,
+    "timestamp": 1660301077000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641555",
+    "price": "2098955.71",
+    "quote_volume": 99.74,
+    "base_volume": 4.74e-5,
+    "timestamp": 1660301062000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641553",
+    "price": "2085094.98",
+    "quote_volume": 35.7,
+    "base_volume": 1.708e-5,
+    "timestamp": 1660300977000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641551",
+    "price": "2085094.98",
+    "quote_volume": 77.09,
+    "base_volume": 3.688e-5,
+    "timestamp": 1660300966000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641549",
+    "price": "2098955.72",
+    "quote_volume": 35.94,
+    "base_volume": 1.708e-5,
+    "timestamp": 1660300945000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641547",
+    "price": "2098955.72",
+    "quote_volume": 1052.1,
+    "base_volume": 0.0005,
+    "timestamp": 1660300939000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641545",
+    "price": "2085094.98",
+    "quote_volume": 73.04,
+    "base_volume": 3.494e-5,
+    "timestamp": 1660300918000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641543",
+    "price": "2098955.72",
+    "quote_volume": 77.6,
+    "base_volume": 3.688e-5,
+    "timestamp": 1660300908000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641541",
+    "price": "2085094.98",
+    "quote_volume": 1707.51,
+    "base_volume": 0.00081687,
+    "timestamp": 1660300905000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641539",
+    "price": "2085094.98",
+    "quote_volume": 73.04,
+    "base_volume": 3.494e-5,
+    "timestamp": 1660300899000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641537",
+    "price": "2080793.00",
+    "quote_volume": 74.49,
+    "base_volume": 3.571e-5,
+    "timestamp": 1660300872000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641535",
+    "price": "2085094.98",
+    "quote_volume": 74.64,
+    "base_volume": 3.571e-5,
+    "timestamp": 1660300858000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641533",
+    "price": "2085094.98",
+    "quote_volume": 453.22,
+    "base_volume": 0.00021682,
+    "timestamp": 1660300824000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641531",
+    "price": "2080793.00",
+    "quote_volume": 215.73,
+    "base_volume": 0.00010342,
+    "timestamp": 1660300808000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641529",
+    "price": "2085094.98",
+    "quote_volume": 216.18,
+    "base_volume": 0.00010342,
+    "timestamp": 1660300787000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641527",
+    "price": "2080793.00",
+    "quote_volume": 92.58,
+    "base_volume": 4.438e-5,
+    "timestamp": 1660300684000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641525",
+    "price": "2085094.98",
+    "quote_volume": 92.77,
+    "base_volume": 4.438e-5,
+    "timestamp": 1660300667000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641523",
+    "price": "2080793.00",
+    "quote_volume": 472.06,
+    "base_volume": 0.0002263,
+    "timestamp": 1660300627000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641521",
+    "price": "2085094.98",
+    "quote_volume": 599.96,
+    "base_volume": 0.00028702,
+    "timestamp": 1660300562000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641519",
+    "price": "2085094.98",
+    "quote_volume": 241.58,
+    "base_volume": 0.00011557,
+    "timestamp": 1660300553000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641517",
+    "price": "2085094.98",
+    "quote_volume": 235.74,
+    "base_volume": 0.00011278,
+    "timestamp": 1660300454000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641515",
+    "price": "2080793.00",
+    "quote_volume": 628.49,
+    "base_volume": 0.00030129,
+    "timestamp": 1660300322000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641513",
+    "price": "2085094.98",
+    "quote_volume": 3569.7,
+    "base_volume": 0.00170774,
+    "timestamp": 1660300301000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641511",
+    "price": "2080793.00",
+    "quote_volume": 52.13,
+    "base_volume": 2.499e-5,
+    "timestamp": 1660300261000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641509",
+    "price": "2085094.98",
+    "quote_volume": 52.24,
+    "base_volume": 2.499e-5,
+    "timestamp": 1660300246000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641507",
+    "price": "2080793.00",
+    "quote_volume": 32.31,
+    "base_volume": 1.549e-5,
+    "timestamp": 1660300245000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641505",
+    "price": "2080793.00",
+    "quote_volume": 86.57,
+    "base_volume": 4.15e-5,
+    "timestamp": 1660300226000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641503",
+    "price": "2085094.98",
+    "quote_volume": 32.38,
+    "base_volume": 1.549e-5,
+    "timestamp": 1660300204000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641501",
+    "price": "2080793.00",
+    "quote_volume": 33.02,
+    "base_volume": 1.583e-5,
+    "timestamp": 1660300171000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641499",
+    "price": "2085094.98",
+    "quote_volume": 857.84,
+    "base_volume": 0.00041039,
+    "timestamp": 1660300169000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641497",
+    "price": "2085094.98",
+    "quote_volume": 857.84,
+    "base_volume": 0.00041039,
+    "timestamp": 1660300149000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641495",
+    "price": "2085094.98",
+    "quote_volume": 9999.97,
+    "base_volume": 0.00478397,
+    "timestamp": 1660300141000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641493",
+    "price": "2085094.98",
+    "quote_volume": 33.09,
+    "base_volume": 1.583e-5,
+    "timestamp": 1660300081000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641491",
+    "price": "2085094.98",
+    "quote_volume": 120.63,
+    "base_volume": 5.771e-5,
+    "timestamp": 1660300050000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641489",
+    "price": "2080793.00",
+    "quote_volume": 134.65,
+    "base_volume": 6.455e-5,
+    "timestamp": 1660300033000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641487",
+    "price": "2080793.00",
+    "quote_volume": 33.75,
+    "base_volume": 1.618e-5,
+    "timestamp": 1660300030000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641485",
+    "price": "2080793.00",
+    "quote_volume": 37.49,
+    "base_volume": 1.797e-5,
+    "timestamp": 1660300027000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641483",
+    "price": "2085094.98",
+    "quote_volume": 134.93,
+    "base_volume": 6.455e-5,
+    "timestamp": 1660300013000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641481",
+    "price": "2080793.00",
+    "quote_volume": 137.65,
+    "base_volume": 6.599e-5,
+    "timestamp": 1660299997000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641479",
+    "price": "2085094.98",
+    "quote_volume": 137.94,
+    "base_volume": 6.599e-5,
+    "timestamp": 1660299985000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641477",
+    "price": "2085094.98",
+    "quote_volume": 33.82,
+    "base_volume": 1.618e-5,
+    "timestamp": 1660299973000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641475",
+    "price": "2080793.00",
+    "quote_volume": 140.74,
+    "base_volume": 6.747e-5,
+    "timestamp": 1660299967000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641473",
+    "price": "2085094.98",
+    "quote_volume": 141.03,
+    "base_volume": 6.747e-5,
+    "timestamp": 1660299953000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641471",
+    "price": "2085094.98",
+    "quote_volume": 862.75,
+    "base_volume": 0.00041274,
+    "timestamp": 1660299947000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641469",
+    "price": "2080793.00",
+    "quote_volume": 29.1,
+    "base_volume": 1.395e-5,
+    "timestamp": 1660299747000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641467",
+    "price": "2080794.00",
+    "quote_volume": 5.42,
+    "base_volume": 2.6e-6,
+    "timestamp": 1660299747000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641465",
+    "price": "2085094.98",
+    "quote_volume": 34.59,
+    "base_volume": 1.655e-5,
+    "timestamp": 1660299726000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641463",
+    "price": "2085094.98",
+    "quote_volume": 4999.97,
+    "base_volume": 0.00239198,
+    "timestamp": 1660299716000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641461",
+    "price": "2084122.14",
+    "quote_volume": 35.29,
+    "base_volume": 1.689e-5,
+    "timestamp": 1660299701000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641459",
+    "price": "2085094.98",
+    "quote_volume": 35.31,
+    "base_volume": 1.689e-5,
+    "timestamp": 1660299682000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641457",
+    "price": "2080794.00",
+    "quote_volume": 36.3,
+    "base_volume": 1.74e-5,
+    "timestamp": 1660299420000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641455",
+    "price": "2101760.41",
+    "quote_volume": 36.66,
+    "base_volume": 1.74e-5,
+    "timestamp": 1660299402000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641453",
+    "price": "2080793.06",
+    "quote_volume": 37.42,
+    "base_volume": 1.794e-5,
+    "timestamp": 1660299380000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641451",
+    "price": "2101760.41",
+    "quote_volume": 37.8,
+    "base_volume": 1.794e-5,
+    "timestamp": 1660299356000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641449",
+    "price": "2080793.06",
+    "quote_volume": 8.11,
+    "base_volume": 3.89e-6,
+    "timestamp": 1660299331000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641447",
+    "price": "2080793.06",
+    "quote_volume": 73.18,
+    "base_volume": 3.508e-5,
+    "timestamp": 1660299080000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641445",
+    "price": "2105106.51",
+    "quote_volume": 37.92,
+    "base_volume": 1.797e-5,
+    "timestamp": 1660299079000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641443",
+    "price": "2105106.51",
+    "quote_volume": 499.97,
+    "base_volume": 0.00023691,
+    "timestamp": 1660299060000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641441",
+    "price": "2108023.00",
+    "quote_volume": 74.13,
+    "base_volume": 3.508e-5,
+    "timestamp": 1660299057000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641439",
+    "price": "2108023.00",
+    "quote_volume": 52108.9,
+    "base_volume": 0.02465768,
+    "timestamp": 1660298971000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641437",
+    "price": "2080793.06",
+    "quote_volume": 38.57,
+    "base_volume": 1.849e-5,
+    "timestamp": 1660298955000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641435",
+    "price": "2080793.06",
+    "quote_volume": 75.64,
+    "base_volume": 3.626e-5,
+    "timestamp": 1660298928000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641433",
+    "price": "2108023.00",
+    "quote_volume": 39.07,
+    "base_volume": 1.849e-5,
+    "timestamp": 1660298926000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641431",
+    "price": "2080793.06",
+    "quote_volume": 505.56,
+    "base_volume": 0.00024236,
+    "timestamp": 1660298857000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641429",
+    "price": "2080793.06",
+    "quote_volume": 167.71,
+    "base_volume": 8.04e-5,
+    "timestamp": 1660298846000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641427",
+    "price": "2080793.06",
+    "quote_volume": 63.37,
+    "base_volume": 3.038e-5,
+    "timestamp": 1660298841000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641425",
+    "price": "2108023.00",
+    "quote_volume": 1667.09,
+    "base_volume": 0.00078886,
+    "timestamp": 1660298825000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641423",
+    "price": "2080793.06",
+    "quote_volume": 14.91,
+    "base_volume": 7.15e-6,
+    "timestamp": 1660298805000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641421",
+    "price": "2080793.06",
+    "quote_volume": 63.37,
+    "base_volume": 3.038e-5,
+    "timestamp": 1660298805000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641419",
+    "price": "2080793.06",
+    "quote_volume": 77.37,
+    "base_volume": 3.709e-5,
+    "timestamp": 1660298795000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641417",
+    "price": "2108023.00",
+    "quote_volume": 79.31,
+    "base_volume": 3.753e-5,
+    "timestamp": 1660298789000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641415",
+    "price": "2108023.00",
+    "quote_volume": 78.38,
+    "base_volume": 3.709e-5,
+    "timestamp": 1660298781000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641413",
+    "price": "2080793.06",
+    "quote_volume": 65.5,
+    "base_volume": 3.14e-5,
+    "timestamp": 1660298775000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641411",
+    "price": "2108023.00",
+    "quote_volume": 66.36,
+    "base_volume": 3.14e-5,
+    "timestamp": 1660298760000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641409",
+    "price": "2080793.05",
+    "quote_volume": 187.28,
+    "base_volume": 8.978e-5,
+    "timestamp": 1660298469000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641407",
+    "price": "2080793.05",
+    "quote_volume": 299.26,
+    "base_volume": 0.00014346,
+    "timestamp": 1660298397000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641405",
+    "price": "2080793.05",
+    "quote_volume": 68.86,
+    "base_volume": 3.301e-5,
+    "timestamp": 1660298107000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641403",
+    "price": "2110751.74",
+    "quote_volume": 1304.98,
+    "base_volume": 0.00061671,
+    "timestamp": 1660298030000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641401",
+    "price": "2082993.17",
+    "quote_volume": 193462.08,
+    "base_volume": 0.09264535,
+    "timestamp": 1660297934000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641399",
+    "price": "2059985.12",
+    "quote_volume": 132.48,
+    "base_volume": 6.415e-5,
+    "timestamp": 1660297909000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641397",
+    "price": "2059985.12",
+    "quote_volume": 45.49,
+    "base_volume": 2.203e-5,
+    "timestamp": 1660297847000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641395",
+    "price": "2110751.74",
+    "quote_volume": 399,
+    "base_volume": 0.00018856,
+    "timestamp": 1660297823000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641393",
+    "price": "2110751.74",
+    "quote_volume": 131.02,
+    "base_volume": 6.192e-5,
+    "timestamp": 1660297815000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641391",
+    "price": "2110751.74",
+    "quote_volume": 117.86,
+    "base_volume": 5.57e-5,
+    "timestamp": 1660297786000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641389",
+    "price": "2110751.74",
+    "quote_volume": 444.83,
+    "base_volume": 0.00021022,
+    "timestamp": 1660297764000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641387",
+    "price": "2110751.74",
+    "quote_volume": 69.85,
+    "base_volume": 3.301e-5,
+    "timestamp": 1660297678000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641385",
+    "price": "2110751.74",
+    "quote_volume": 76.73,
+    "base_volume": 3.626e-5,
+    "timestamp": 1660297605000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641383",
+    "price": "2080793.01",
+    "quote_volume": 78.29,
+    "base_volume": 3.753e-5,
+    "timestamp": 1660297564000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641381",
+    "price": "2110751.74",
+    "quote_volume": 99.96,
+    "base_volume": 4.724e-5,
+    "timestamp": 1660297562000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641379",
+    "price": "2110751.74",
+    "quote_volume": 79.41,
+    "base_volume": 3.753e-5,
+    "timestamp": 1660297544000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641377",
+    "price": "2110751.74",
+    "quote_volume": 46.62,
+    "base_volume": 2.203e-5,
+    "timestamp": 1660297486000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641375",
+    "price": "2080793.00",
+    "quote_volume": 303.76,
+    "base_volume": 0.00014562,
+    "timestamp": 1660297420000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641373",
+    "price": "2085000.00",
+    "quote_volume": 189.06,
+    "base_volume": 9.045e-5,
+    "timestamp": 1660297420000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641371",
+    "price": "2085000.00",
+    "quote_volume": 304.54,
+    "base_volume": 0.0001457,
+    "timestamp": 1660297291000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641369",
+    "price": "2085000.00",
+    "quote_volume": 6.4,
+    "base_volume": 3.06e-6,
+    "timestamp": 1660297270000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641367",
+    "price": "2080793.00",
+    "quote_volume": 609.09,
+    "base_volume": 0.00029199,
+    "timestamp": 1660297261000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641365",
+    "price": "2085000.00",
+    "quote_volume": 9.99,
+    "base_volume": 4.78e-6,
+    "timestamp": 1660297252000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641363",
+    "price": "2085000.00",
+    "quote_volume": 135.88,
+    "base_volume": 6.501e-5,
+    "timestamp": 1660297252000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641361",
+    "price": "2085000.00",
+    "quote_volume": 71.26,
+    "base_volume": 3.409e-5,
+    "timestamp": 1660297252000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641359",
+    "price": "2110751.74",
+    "quote_volume": 72.14,
+    "base_volume": 3.409e-5,
+    "timestamp": 1660297242000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641357",
+    "price": "2085000.00",
+    "quote_volume": 304.54,
+    "base_volume": 0.0001457,
+    "timestamp": 1660297241000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641355",
+    "price": "2085000.00",
+    "quote_volume": 73.62,
+    "base_volume": 3.522e-5,
+    "timestamp": 1660297228000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641353",
+    "price": "2110751.74",
+    "quote_volume": 74.53,
+    "base_volume": 3.522e-5,
+    "timestamp": 1660297217000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641351",
+    "price": "2085000.00",
+    "quote_volume": 75.67,
+    "base_volume": 3.62e-5,
+    "timestamp": 1660297203000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641349",
+    "price": "2085000.00",
+    "quote_volume": 80.91,
+    "base_volume": 3.871e-5,
+    "timestamp": 1660297201000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641347",
+    "price": "2110751.74",
+    "quote_volume": 11.51,
+    "base_volume": 5.44e-6,
+    "timestamp": 1660297190000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641345",
+    "price": "2100000.00",
+    "quote_volume": 28.32,
+    "base_volume": 1.345e-5,
+    "timestamp": 1660297190000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641343",
+    "price": "2085000.00",
+    "quote_volume": 41.43,
+    "base_volume": 1.982e-5,
+    "timestamp": 1660297190000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641341",
+    "price": "2085000.00",
+    "quote_volume": 83.17,
+    "base_volume": 3.979e-5,
+    "timestamp": 1660297177000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641339",
+    "price": "2100000.00",
+    "quote_volume": 83.77,
+    "base_volume": 3.979e-5,
+    "timestamp": 1660297166000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641337",
+    "price": "2100000.00",
+    "quote_volume": 141.7,
+    "base_volume": 6.731e-5,
+    "timestamp": 1660297124000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641335",
+    "price": "2110751.74",
+    "quote_volume": 1999.99,
+    "base_volume": 0.00094516,
+    "timestamp": 1660297112000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641333",
+    "price": "2100000.00",
+    "quote_volume": 101.52,
+    "base_volume": 4.822e-5,
+    "timestamp": 1660297067000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641331",
+    "price": "2110751.74",
+    "quote_volume": 200.01,
+    "base_volume": 9.452e-5,
+    "timestamp": 1660297060000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641329",
+    "price": "2100000.00",
+    "quote_volume": 120.23,
+    "base_volume": 5.711e-5,
+    "timestamp": 1660297056000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641327",
+    "price": "2110751.74",
+    "quote_volume": 500,
+    "base_volume": 0.00023629,
+    "timestamp": 1660297052000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641325",
+    "price": "2100000.00",
+    "quote_volume": 35.81,
+    "base_volume": 1.701e-5,
+    "timestamp": 1660297033000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641323",
+    "price": "2100000.00",
+    "quote_volume": 97.83,
+    "base_volume": 4.647e-5,
+    "timestamp": 1660297031000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641321",
+    "price": "2110751.74",
+    "quote_volume": 35.99,
+    "base_volume": 1.701e-5,
+    "timestamp": 1660297021000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641319",
+    "price": "2110751.74",
+    "quote_volume": 98.33,
+    "base_volume": 4.647e-5,
+    "timestamp": 1660297016000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641317",
+    "price": "2085000.00",
+    "quote_volume": 131.89,
+    "base_volume": 6.31e-5,
+    "timestamp": 1660296934000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641315",
+    "price": "2110751.74",
+    "quote_volume": 120.85,
+    "base_volume": 5.711e-5,
+    "timestamp": 1660296892000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641313",
+    "price": "2110751.74",
+    "quote_volume": 133.52,
+    "base_volume": 6.31e-5,
+    "timestamp": 1660296887000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641311",
+    "price": "2085000.00",
+    "quote_volume": 43.04,
+    "base_volume": 2.059e-5,
+    "timestamp": 1660296860000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641309",
+    "price": "2110751.74",
+    "quote_volume": 43.57,
+    "base_volume": 2.059e-5,
+    "timestamp": 1660296844000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641307",
+    "price": "2110751.74",
+    "quote_volume": 100.3,
+    "base_volume": 4.74e-5,
+    "timestamp": 1660296835000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641305",
+    "price": "2099000.06",
+    "quote_volume": 26203.63,
+    "base_volume": 0.01245273,
+    "timestamp": 1660296785000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641303",
+    "price": "2099000.06",
+    "quote_volume": 81.03,
+    "base_volume": 3.851e-5,
+    "timestamp": 1660296740000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641301",
+    "price": "2099000.06",
+    "quote_volume": 123.33,
+    "base_volume": 5.861e-5,
+    "timestamp": 1660296734000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641299",
+    "price": "2100000.00",
+    "quote_volume": 81.07,
+    "base_volume": 3.851e-5,
+    "timestamp": 1660296723000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641297",
+    "price": "2100000.00",
+    "quote_volume": 123.39,
+    "base_volume": 5.861e-5,
+    "timestamp": 1660296717000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641295",
+    "price": "2099000.06",
+    "quote_volume": 125.9,
+    "base_volume": 5.983e-5,
+    "timestamp": 1660296685000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641293",
+    "price": "2100000.00",
+    "quote_volume": 125.96,
+    "base_volume": 5.983e-5,
+    "timestamp": 1660296666000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641291",
+    "price": "2099000.06",
+    "quote_volume": 128.51,
+    "base_volume": 6.107e-5,
+    "timestamp": 1660296642000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641289",
+    "price": "2100000.00",
+    "quote_volume": 76.21,
+    "base_volume": 3.62e-5,
+    "timestamp": 1660296633000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641287",
+    "price": "2100000.00",
+    "quote_volume": 128.57,
+    "base_volume": 6.107e-5,
+    "timestamp": 1660296629000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641285",
+    "price": "2099000.06",
+    "quote_volume": 131.2,
+    "base_volume": 6.235e-5,
+    "timestamp": 1660296603000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641283",
+    "price": "2100000.00",
+    "quote_volume": 131.26,
+    "base_volume": 6.235e-5,
+    "timestamp": 1660296589000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641281",
+    "price": "2099000.06",
+    "quote_volume": 36.74,
+    "base_volume": 1.746e-5,
+    "timestamp": 1660296571000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641279",
+    "price": "2099000.06",
+    "quote_volume": 133.89,
+    "base_volume": 6.363e-5,
+    "timestamp": 1660296568000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641277",
+    "price": "2100000.00",
+    "quote_volume": 36.76,
+    "base_volume": 1.746e-5,
+    "timestamp": 1660296558000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641275",
+    "price": "2100000.00",
+    "quote_volume": 133.96,
+    "base_volume": 6.363e-5,
+    "timestamp": 1660296549000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641273",
+    "price": "2100000.00",
+    "quote_volume": 6820.04,
+    "base_volume": 0.00323954,
+    "timestamp": 1660296515000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641271",
+    "price": "2100000.00",
+    "quote_volume": 23.81,
+    "base_volume": 1.131e-5,
+    "timestamp": 1660296383000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641269",
+    "price": "2110751.74",
+    "quote_volume": 23.93,
+    "base_volume": 1.131e-5,
+    "timestamp": 1660296363000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641267",
+    "price": "2100000.00",
+    "quote_volume": 103.64,
+    "base_volume": 4.923e-5,
+    "timestamp": 1660296361000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641265",
+    "price": "2110751.74",
+    "quote_volume": 104.17,
+    "base_volume": 4.923e-5,
+    "timestamp": 1660296347000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641263",
+    "price": "2100000.00",
+    "quote_volume": 52.46,
+    "base_volume": 2.492e-5,
+    "timestamp": 1660296305000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641261",
+    "price": "2110751.74",
+    "quote_volume": 52.73,
+    "base_volume": 2.492e-5,
+    "timestamp": 1660296277000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641259",
+    "price": "2099000.06",
+    "quote_volume": 79.52,
+    "base_volume": 3.779e-5,
+    "timestamp": 1660296242000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641257",
+    "price": "2110751.74",
+    "quote_volume": 79.96,
+    "base_volume": 3.779e-5,
+    "timestamp": 1660296204000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641255",
+    "price": "2110751.74",
+    "quote_volume": 87.58,
+    "base_volume": 4.139e-5,
+    "timestamp": 1660296151000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641253",
+    "price": "2099000.06",
+    "quote_volume": 77.75,
+    "base_volume": 3.695e-5,
+    "timestamp": 1660296148000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641251",
+    "price": "2110751.74",
+    "quote_volume": 78.19,
+    "base_volume": 3.695e-5,
+    "timestamp": 1660296102000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641249",
+    "price": "2099000.06",
+    "quote_volume": 79.65,
+    "base_volume": 3.785e-5,
+    "timestamp": 1660296087000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641247",
+    "price": "2099000.06",
+    "quote_volume": 46.99,
+    "base_volume": 2.233e-5,
+    "timestamp": 1660296081000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641245",
+    "price": "2110751.74",
+    "quote_volume": 80.09,
+    "base_volume": 3.785e-5,
+    "timestamp": 1660296077000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641243",
+    "price": "2099000.06",
+    "quote_volume": 2321.49,
+    "base_volume": 0.00110324,
+    "timestamp": 1660296066000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641241",
+    "price": "2099000.06",
+    "quote_volume": 38.38,
+    "base_volume": 1.824e-5,
+    "timestamp": 1660296066000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641239",
+    "price": "2110751.74",
+    "quote_volume": 38.6,
+    "base_volume": 1.824e-5,
+    "timestamp": 1660296053000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641237",
+    "price": "2099000.06",
+    "quote_volume": 78.68,
+    "base_volume": 3.739e-5,
+    "timestamp": 1660296048000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641235",
+    "price": "2107907.68",
+    "quote_volume": 47.19,
+    "base_volume": 2.233e-5,
+    "timestamp": 1660296041000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641233",
+    "price": "2099000.06",
+    "quote_volume": 2.57,
+    "base_volume": 1.22e-6,
+    "timestamp": 1660296019000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641231",
+    "price": "2107907.68",
+    "quote_volume": 79.01,
+    "base_volume": 3.739e-5,
+    "timestamp": 1660296019000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641229",
+    "price": "2107907.68",
+    "quote_volume": 81.59,
+    "base_volume": 3.861e-5,
+    "timestamp": 1660295997000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641227",
+    "price": "2107907.68",
+    "quote_volume": 276077.21,
+    "base_volume": 0.13064554,
+    "timestamp": 1660295982000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641225",
+    "price": "2107907.68",
+    "quote_volume": 68.91,
+    "base_volume": 3.261e-5,
+    "timestamp": 1660295916000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641223",
+    "price": "2099000.06",
+    "quote_volume": 117.5,
+    "base_volume": 5.584e-5,
+    "timestamp": 1660295895000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641221",
+    "price": "2099000.06",
+    "quote_volume": 80.61,
+    "base_volume": 3.831e-5,
+    "timestamp": 1660295889000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641219",
+    "price": "2107907.68",
+    "quote_volume": 80.96,
+    "base_volume": 3.831e-5,
+    "timestamp": 1660295855000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641217",
+    "price": "2099000.06",
+    "quote_volume": 104.62,
+    "base_volume": 4.972e-5,
+    "timestamp": 1660295832000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641215",
+    "price": "2106328.39",
+    "quote_volume": 34.19,
+    "base_volume": 1.619e-5,
+    "timestamp": 1660295821000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641213",
+    "price": "2099000.06",
+    "quote_volume": 273.97,
+    "base_volume": 0.0001302,
+    "timestamp": 1660295808000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641211",
+    "price": "2099000.06",
+    "quote_volume": 23.36,
+    "base_volume": 1.11e-5,
+    "timestamp": 1660295790000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641209",
+    "price": "2106328.39",
+    "quote_volume": 274.93,
+    "base_volume": 0.0001302,
+    "timestamp": 1660295778000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641207",
+    "price": "2106328.39",
+    "quote_volume": 128520.05,
+    "base_volume": 0.06086399,
+    "timestamp": 1660295684000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641205",
+    "price": "2099000.06",
+    "quote_volume": 136.44,
+    "base_volume": 6.484e-5,
+    "timestamp": 1660295587000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641203",
+    "price": "2099000.06",
+    "quote_volume": 225.36,
+    "base_volume": 0.0001071,
+    "timestamp": 1660295567000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641201",
+    "price": "2099000.06",
+    "quote_volume": 100.56,
+    "base_volume": 4.779e-5,
+    "timestamp": 1660295035000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641199",
+    "price": "2108752.76",
+    "quote_volume": 2199.98,
+    "base_volume": 0.00104066,
+    "timestamp": 1660295002000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641197",
+    "price": "2099000.06",
+    "quote_volume": 82.53,
+    "base_volume": 3.922e-5,
+    "timestamp": 1660294867000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641195",
+    "price": "2108752.78",
+    "quote_volume": 82.91,
+    "base_volume": 3.922e-5,
+    "timestamp": 1660294841000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641193",
+    "price": "2099000.06",
+    "quote_volume": 134.29,
+    "base_volume": 6.382e-5,
+    "timestamp": 1660294815000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641191",
+    "price": "2108752.78",
+    "quote_volume": 422.8,
+    "base_volume": 0.0002,
+    "timestamp": 1660294807000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641189",
+    "price": "2108884.03",
+    "quote_volume": 134.93,
+    "base_volume": 6.382e-5,
+    "timestamp": 1660294772000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641187",
+    "price": "2108884.03",
+    "quote_volume": 87.1,
+    "base_volume": 4.12e-5,
+    "timestamp": 1660294586000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641185",
+    "price": "2099000.06",
+    "quote_volume": 375.36,
+    "base_volume": 0.00017838,
+    "timestamp": 1660294538000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641183",
+    "price": "2109645.16",
+    "quote_volume": 117918.74,
+    "base_volume": 0.05575567,
+    "timestamp": 1660294519000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641181",
+    "price": "2109645.15",
+    "quote_volume": 377.26,
+    "base_volume": 0.00017838,
+    "timestamp": 1660294513000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641179",
+    "price": "2099000.06",
+    "quote_volume": 208.05,
+    "base_volume": 9.887e-5,
+    "timestamp": 1660294475000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641177",
+    "price": "2100000.00",
+    "quote_volume": 245.81,
+    "base_volume": 0.00011676,
+    "timestamp": 1660294475000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641175",
+    "price": "2109645.15",
+    "quote_volume": 145.27,
+    "base_volume": 6.869e-5,
+    "timestamp": 1660294447000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641173",
+    "price": "2100000.00",
+    "quote_volume": 111.2,
+    "base_volume": 5.282e-5,
+    "timestamp": 1660294436000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641171",
+    "price": "2109645.14",
+    "quote_volume": 111.71,
+    "base_volume": 5.282e-5,
+    "timestamp": 1660294414000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641169",
+    "price": "2099000.06",
+    "quote_volume": 875.03,
+    "base_volume": 0.00041584,
+    "timestamp": 1660294407000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641167",
+    "price": "2110357.81",
+    "quote_volume": 290.69,
+    "base_volume": 0.0001374,
+    "timestamp": 1660294405000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641165",
+    "price": "2110357.81",
+    "quote_volume": 581.38,
+    "base_volume": 0.0002748,
+    "timestamp": 1660294361000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641163",
+    "price": "2110357.81",
+    "quote_volume": 22.32,
+    "base_volume": 1.055e-5,
+    "timestamp": 1660294150000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641161",
+    "price": "2099000.06",
+    "quote_volume": 44.38,
+    "base_volume": 2.109e-5,
+    "timestamp": 1660294133000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641159",
+    "price": "2110357.82",
+    "quote_volume": 44.62,
+    "base_volume": 2.109e-5,
+    "timestamp": 1660294116000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641157",
+    "price": "2099000.06",
+    "quote_volume": 44.95,
+    "base_volume": 2.136e-5,
+    "timestamp": 1660294097000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641155",
+    "price": "2110718.96",
+    "quote_volume": 45.2,
+    "base_volume": 2.136e-5,
+    "timestamp": 1660294075000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641153",
+    "price": "2110718.96",
+    "quote_volume": 298.08,
+    "base_volume": 0.00014087,
+    "timestamp": 1660294043000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641151",
+    "price": "2099000.06",
+    "quote_volume": 54.04,
+    "base_volume": 2.568e-5,
+    "timestamp": 1660294042000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641149",
+    "price": "2110718.99",
+    "quote_volume": 54.34,
+    "base_volume": 2.568e-5,
+    "timestamp": 1660294021000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641147",
+    "price": "2099000.06",
+    "quote_volume": 64.81,
+    "base_volume": 3.08e-5,
+    "timestamp": 1660293999000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641145",
+    "price": "2110718.99",
+    "quote_volume": 14388.77,
+    "base_volume": 0.0068,
+    "timestamp": 1660293996000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641143",
+    "price": "2110718.99",
+    "quote_volume": 399.97,
+    "base_volume": 0.00018902,
+    "timestamp": 1660293962000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641141",
+    "price": "2110718.99",
+    "quote_volume": 65.17,
+    "base_volume": 3.08e-5,
+    "timestamp": 1660293935000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641139",
+    "price": "2099000.06",
+    "quote_volume": 384.93,
+    "base_volume": 0.00018293,
+    "timestamp": 1660293777000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641137",
+    "price": "2109623.13",
+    "quote_volume": 10535.51,
+    "base_volume": 0.00498157,
+    "timestamp": 1660293709000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641135",
+    "price": "2099000.06",
+    "quote_volume": 114.07,
+    "base_volume": 5.421e-5,
+    "timestamp": 1660293695000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641133",
+    "price": "2109623.13",
+    "quote_volume": 114.65,
+    "base_volume": 5.421e-5,
+    "timestamp": 1660293681000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641131",
+    "price": "2109354.45",
+    "quote_volume": 200.34,
+    "base_volume": 9.474e-5,
+    "timestamp": 1660293614000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641129",
+    "price": "2099000.06",
+    "quote_volume": 349.62,
+    "base_volume": 0.00016615,
+    "timestamp": 1660293559000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641127",
+    "price": "2109354.46",
+    "quote_volume": 351.35,
+    "base_volume": 0.00016615,
+    "timestamp": 1660293544000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641125",
+    "price": "2109354.46",
+    "quote_volume": 23752.26,
+    "base_volume": 0.01123236,
+    "timestamp": 1660293490000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641123",
+    "price": "2109354.46",
+    "quote_volume": 111.61,
+    "base_volume": 5.278e-5,
+    "timestamp": 1660293469000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641121",
+    "price": "2099000.06",
+    "quote_volume": 31.77,
+    "base_volume": 1.51e-5,
+    "timestamp": 1660293419000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641119",
+    "price": "2109893.58",
+    "quote_volume": 189.9,
+    "base_volume": 8.978e-5,
+    "timestamp": 1660293417000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641117",
+    "price": "2109893.58",
+    "quote_volume": 31.94,
+    "base_volume": 1.51e-5,
+    "timestamp": 1660293392000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641115",
+    "price": "2099000.06",
+    "quote_volume": 63.55,
+    "base_volume": 3.02e-5,
+    "timestamp": 1660293371000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641113",
+    "price": "2099000.06",
+    "quote_volume": 142.14,
+    "base_volume": 6.755e-5,
+    "timestamp": 1660293350000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641111",
+    "price": "2109893.58",
+    "quote_volume": 63.88,
+    "base_volume": 3.02e-5,
+    "timestamp": 1660293348000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641109",
+    "price": "2099000.06",
+    "quote_volume": 299.83,
+    "base_volume": 0.00014249,
+    "timestamp": 1660293307000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641107",
+    "price": "2099000.06",
+    "quote_volume": 135.47,
+    "base_volume": 6.438e-5,
+    "timestamp": 1660293296000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641105",
+    "price": "2099000.06",
+    "quote_volume": 116.95,
+    "base_volume": 5.558e-5,
+    "timestamp": 1660293273000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641103",
+    "price": "2110751.74",
+    "quote_volume": 117.61,
+    "base_volume": 5.558e-5,
+    "timestamp": 1660293255000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641101",
+    "price": "2099000.06",
+    "quote_volume": 119.04,
+    "base_volume": 5.657e-5,
+    "timestamp": 1660293044000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641099",
+    "price": "2110751.74",
+    "quote_volume": 119.7,
+    "base_volume": 5.657e-5,
+    "timestamp": 1660293031000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641097",
+    "price": "2099000.06",
+    "quote_volume": 123.08,
+    "base_volume": 5.849e-5,
+    "timestamp": 1660293006000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641095",
+    "price": "2110751.74",
+    "quote_volume": 123.77,
+    "base_volume": 5.849e-5,
+    "timestamp": 1660292994000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641093",
+    "price": "2099000.06",
+    "quote_volume": 82.7,
+    "base_volume": 3.93e-5,
+    "timestamp": 1660292987000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641091",
+    "price": "2099000.06",
+    "quote_volume": 126.28,
+    "base_volume": 6.001e-5,
+    "timestamp": 1660292972000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641089",
+    "price": "2110751.74",
+    "quote_volume": 126.98,
+    "base_volume": 6.001e-5,
+    "timestamp": 1660292959000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641087",
+    "price": "2110751.74",
+    "quote_volume": 83.16,
+    "base_volume": 3.93e-5,
+    "timestamp": 1660292943000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641085",
+    "price": "2099000.06",
+    "quote_volume": 5118.08,
+    "base_volume": 0.00243226,
+    "timestamp": 1660292916000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641083",
+    "price": "2110751.71",
+    "quote_volume": 4499.97,
+    "base_volume": 0.00212661,
+    "timestamp": 1660292775000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641081",
+    "price": "2110751.71",
+    "quote_volume": 771.29,
+    "base_volume": 0.0003645,
+    "timestamp": 1660292763000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641079",
+    "price": "2110751.70",
+    "quote_volume": 128.68,
+    "base_volume": 6.081e-5,
+    "timestamp": 1660292762000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641077",
+    "price": "2110751.70",
+    "quote_volume": 128.68,
+    "base_volume": 6.081e-5,
+    "timestamp": 1660292748000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641075",
+    "price": "2099000.06",
+    "quote_volume": 369.61,
+    "base_volume": 0.00017565,
+    "timestamp": 1660292697000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641073",
+    "price": "2099000.06",
+    "quote_volume": 84.86,
+    "base_volume": 4.033e-5,
+    "timestamp": 1660292591000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641071",
+    "price": "2110751.73",
+    "quote_volume": 76.9,
+    "base_volume": 3.634e-5,
+    "timestamp": 1660292589000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641069",
+    "price": "2110751.73",
+    "quote_volume": 85.34,
+    "base_volume": 4.033e-5,
+    "timestamp": 1660292577000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641067",
+    "price": "2099000.06",
+    "quote_volume": 38.97,
+    "base_volume": 1.852e-5,
+    "timestamp": 1660292556000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641065",
+    "price": "2110751.74",
+    "quote_volume": 39.19,
+    "base_volume": 1.852e-5,
+    "timestamp": 1660292537000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641063",
+    "price": "2099000.06",
+    "quote_volume": 77.96,
+    "base_volume": 3.705e-5,
+    "timestamp": 1660292512000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641061",
+    "price": "2110751.74",
+    "quote_volume": 78.4,
+    "base_volume": 3.705e-5,
+    "timestamp": 1660292492000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641059",
+    "price": "2099000.06",
+    "quote_volume": 136.67,
+    "base_volume": 6.495e-5,
+    "timestamp": 1660292490000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641057",
+    "price": "2099000.06",
+    "quote_volume": 87.05,
+    "base_volume": 4.137e-5,
+    "timestamp": 1660292408000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641055",
+    "price": "2099000.06",
+    "quote_volume": 131.98,
+    "base_volume": 6.272e-5,
+    "timestamp": 1660292401000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641053",
+    "price": "2099000.06",
+    "quote_volume": 19.34,
+    "base_volume": 9.19e-6,
+    "timestamp": 1660292395000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641051",
+    "price": "2110751.74",
+    "quote_volume": 87.54,
+    "base_volume": 4.137e-5,
+    "timestamp": 1660292395000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641049",
+    "price": "2110751.74",
+    "quote_volume": 34.07,
+    "base_volume": 1.61e-5,
+    "timestamp": 1660292386000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641047",
+    "price": "2109794.45",
+    "quote_volume": 98.6,
+    "base_volume": 4.662e-5,
+    "timestamp": 1660292386000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641045",
+    "price": "2099000.06",
+    "quote_volume": 135.56,
+    "base_volume": 6.442e-5,
+    "timestamp": 1660292363000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641043",
+    "price": "2099000.06",
+    "quote_volume": 78.38,
+    "base_volume": 3.725e-5,
+    "timestamp": 1660292363000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641041",
+    "price": "2099000.06",
+    "quote_volume": 1516.8,
+    "base_volume": 0.00072083,
+    "timestamp": 1660292348000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641039",
+    "price": "2099000.06",
+    "quote_volume": 100.54,
+    "base_volume": 4.778e-5,
+    "timestamp": 1660292345000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641037",
+    "price": "2109794.45",
+    "quote_volume": 45.28,
+    "base_volume": 2.141e-5,
+    "timestamp": 1660292302000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641035",
+    "price": "2109794.45",
+    "quote_volume": 90.97,
+    "base_volume": 4.301e-5,
+    "timestamp": 1660292302000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641033",
+    "price": "2109794.45",
+    "quote_volume": 99.98,
+    "base_volume": 4.727e-5,
+    "timestamp": 1660292289000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641031",
+    "price": "2099000.06",
+    "quote_volume": 33.75,
+    "base_volume": 1.604e-5,
+    "timestamp": 1660292210000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641029",
+    "price": "2109794.45",
+    "quote_volume": 33.93,
+    "base_volume": 1.604e-5,
+    "timestamp": 1660292195000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641027",
+    "price": "2109794.45",
+    "quote_volume": 99.83,
+    "base_volume": 4.72e-5,
+    "timestamp": 1660292046000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641025",
+    "price": "2099000.06",
+    "quote_volume": 165.6,
+    "base_volume": 7.87e-5,
+    "timestamp": 1660292044000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641023",
+    "price": "2109794.45",
+    "quote_volume": 29.61,
+    "base_volume": 1.4e-5,
+    "timestamp": 1660292002000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641021",
+    "price": "2108000.06",
+    "quote_volume": 72.36,
+    "base_volume": 3.424e-5,
+    "timestamp": 1660292002000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641019",
+    "price": "2108000.06",
+    "quote_volume": 58.79,
+    "base_volume": 2.782e-5,
+    "timestamp": 1660291760000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641017",
+    "price": "2108000.06",
+    "quote_volume": 87.98,
+    "base_volume": 4.163e-5,
+    "timestamp": 1660291635000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641015",
+    "price": "2099000.06",
+    "quote_volume": 34.59,
+    "base_volume": 1.644e-5,
+    "timestamp": 1660291487000,
+    "type": "sell"
+  },
+  {
+    "tradeId": "3641013",
+    "price": "2109794.45",
+    "quote_volume": 34.77,
+    "base_volume": 1.644e-5,
+    "timestamp": 1660291418000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641011",
+    "price": "2109794.45",
+    "quote_volume": 235.2,
+    "base_volume": 0.0001112,
+    "timestamp": 1660291394000,
+    "type": "buy"
+  },
+  {
+    "tradeId": "3641009",
+    "price": "2099000.06",
+    "quote_volume": 42.08,
+    "base_volume": 2e-5,
+    "timestamp": 1660291393000,
+    "type": "sell"
+  }
+]

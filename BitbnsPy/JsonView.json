@@ -1,0 +1,1913 @@
+BTC {
+    "highest_buy_bid": 1987283.93,
+    "lowest_sell_bid": 1990386.7,
+    "last_traded_price": 1989130.63,
+    "yes_price": 2059999.88,
+    "volume": {
+        "max": "2059999.88",
+        "min": "1984000.00",
+        "volume": 10.10420961
+    }
+},
+XRP {
+    "highest_buy_bid": 32.18,
+    "lowest_sell_bid": 32.22,
+    "last_traded_price": 32.18,
+    "yes_price": 33,
+    "volume": {
+        "max": "33.17",
+        "min": "32.12",
+        "volume": 1280668.82
+    }
+},
+NEO {
+    "highest_buy_bid": 933.09,
+    "lowest_sell_bid": 944.13,
+    "last_traded_price": 941.48,
+    "yes_price": 949.87,
+    "volume": {
+        "max": "977.62",
+        "min": "933.84",
+        "volume": 8209.5264
+    }
+},
+GAS {
+    "highest_buy_bid": 226.01,
+    "lowest_sell_bid": 250,
+    "last_traded_price": 255,
+    "yes_price": 255,
+    "volume": {
+        "max": "255.00",
+        "min": "255.00",
+        "volume": 0
+    }
+},
+ETH {
+    "highest_buy_bid": 138699.02,
+    "lowest_sell_bid": 140302.4,
+    "last_traded_price": 138699.02,
+    "yes_price": 142500,
+    "volume": {
+        "max": "146949.50",
+        "min": "138699.02",
+        "volume": 638.04553168
+    }
+},
+XLM {
+    "highest_buy_bid": 9.98,
+    "lowest_sell_bid": 10.03,
+    "last_traded_price": 9.98,
+    "yes_price": 10.15,
+    "volume": {
+        "max": "10.30",
+        "min": "9.87",
+        "volume": 662182.23
+    }
+},
+RPX {
+    "highest_buy_bid": 0.219,
+    "lowest_sell_bid": 0.248,
+    "last_traded_price": 0.248,
+    "yes_price": 0.23,
+    "volume": {
+        "max": "0.24",
+        "min": "0.22",
+        "volume": 402
+    }
+},
+DBC {
+    "highest_buy_bid": 0.14,
+    "lowest_sell_bid": 0.144,
+    "last_traded_price": 0.144,
+    "yes_price": 0.132,
+    "volume": {
+        "max": "0.145",
+        "min": "0.132",
+        "volume": 3554.97
+    }
+},
+LTC {
+    "highest_buy_bid": 5137.9,
+    "lowest_sell_bid": 5203.8,
+    "last_traded_price": 5127.2,
+    "yes_price": 5260.2,
+    "volume": {
+        "max": "5276.90",
+        "min": "5009.90",
+        "volume": 2159.9852
+    }
+},
+XMR {
+    "highest_buy_bid": 12734.64,
+    "lowest_sell_bid": 14165.03,
+    "last_traded_price": 13121.03,
+    "yes_price": 12734.92,
+    "volume": {
+        "max": "14165.03",
+        "min": "12734.92",
+        "volume": 0.1256
+    }
+},
+DASH {
+    "highest_buy_bid": 4150,
+    "lowest_sell_bid": 4682.7,
+    "last_traded_price": 4150,
+    "yes_price": 4151.33,
+    "volume": {
+        "max": "4640.74",
+        "min": "4150.00",
+        "volume": 0.1789
+    }
+},
+DOGE {
+    "highest_buy_bid": 5.755,
+    "lowest_sell_bid": 5.8,
+    "last_traded_price": 5.8,
+    "yes_price": 5.832,
+    "volume": {
+        "max": "5.981",
+        "min": "5.750",
+        "volume": 1126162
+    }
+},
+BCH {
+    "highest_buy_bid": 11301,
+    "lowest_sell_bid": 12748.97,
+    "last_traded_price": 12748.97,
+    "yes_price": 12750,
+    "volume": {
+        "max": "12750.00",
+        "min": "11250.01",
+        "volume": 2.5096
+    }
+},
+SC {
+    "highest_buy_bid": 0.371,
+    "lowest_sell_bid": 0.432,
+    "last_traded_price": 0.371,
+    "yes_price": 0.434,
+    "volume": {
+        "max": "0.434",
+        "min": "0.370",
+        "volume": 7762
+    }
+},
+TRX {
+    "highest_buy_bid": 6,
+    "lowest_sell_bid": 6.03,
+    "last_traded_price": 6.03,
+    "yes_price": 6.1,
+    "volume": {
+        "max": "6.10",
+        "min": "5.92",
+        "volume": 2154671
+    }
+},
+ETN {
+    "highest_buy_bid": 0.269,
+    "lowest_sell_bid": 0.292,
+    "last_traded_price": 0.294,
+    "yes_price": 0.27,
+    "volume": {
+        "max": "0.29",
+        "min": "0.27",
+        "volume": 588.5
+    }
+},
+ONT {
+    "highest_buy_bid": 22.15,
+    "lowest_sell_bid": 26,
+    "last_traded_price": 22.1,
+    "yes_price": 22.1,
+    "volume": {
+        "max": "22.10",
+        "min": "22.10",
+        "volume": 0
+    }
+},
+ZIL {
+    "highest_buy_bid": 3.6,
+    "lowest_sell_bid": 3.78,
+    "last_traded_price": 3.77,
+    "yes_price": 3.69,
+    "volume": {
+        "max": "3.79",
+        "min": "3.57",
+        "volume": 2611
+    }
+},
+EOS {
+    "highest_buy_bid": 101.68,
+    "lowest_sell_bid": 103.37,
+    "last_traded_price": 101.68,
+    "yes_price": 107.38,
+    "volume": {
+        "max": "107.38",
+        "min": "101.29",
+        "volume": 21108.67
+    }
+},
+POLY {
+    "highest_buy_bid": 17.86,
+    "lowest_sell_bid": 20.47,
+    "last_traded_price": 19,
+    "yes_price": 20.47,
+    "volume": {
+        "max": "20.47",
+        "min": "19.00",
+        "volume": 215.8
+    }
+},
+DGB {
+    "highest_buy_bid": 1,
+    "lowest_sell_bid": 1.08,
+    "last_traded_price": 1.09,
+    "yes_price": 0.99,
+    "volume": {
+        "max": "1.09",
+        "min": "0.98",
+        "volume": 3856
+    }
+},
+NCASH {
+    "highest_buy_bid": 0.016,
+    "lowest_sell_bid": 0.017,
+    "last_traded_price": 0.017,
+    "yes_price": 0.017,
+    "volume": {
+        "max": "0.017",
+        "min": "0.016",
+        "volume": 138266
+    }
+},
+ADA {
+    "highest_buy_bid": 43.7,
+    "lowest_sell_bid": 43.76,
+    "last_traded_price": 43.78,
+    "yes_price": 44.66,
+    "volume": {
+        "max": "45.10",
+        "min": "43.45",
+        "volume": 584543.3
+    }
+},
+ICX {
+    "highest_buy_bid": 27,
+    "lowest_sell_bid": 29.69,
+    "last_traded_price": 27,
+    "yes_price": 27,
+    "volume": {
+        "max": "29.69",
+        "min": "27.00",
+        "volume": 20.14
+    }
+},
+VEN {
+    "highest_buy_bid": 1.9,
+    "lowest_sell_bid": 2.05,
+    "last_traded_price": 2.05,
+    "yes_price": 2.268,
+    "volume": {
+        "max": "3.000",
+        "min": "2.268",
+        "volume": 211464
+    }
+},
+OMG {
+    "highest_buy_bid": 188.87,
+    "lowest_sell_bid": 200,
+    "last_traded_price": 185.09,
+    "yes_price": 200,
+    "volume": {
+        "max": "200.00",
+        "min": "185.09",
+        "volume": 0.81
+    }
+},
+REQ {
+    "highest_buy_bid": 11.1,
+    "lowest_sell_bid": 12,
+    "last_traded_price": 11.1,
+    "yes_price": 12,
+    "volume": {
+        "max": "12.00",
+        "min": "11.10",
+        "volume": 3.4
+    }
+},
+DGD {
+    "highest_buy_bid": 7301.6,
+    "lowest_sell_bid": 8398.9,
+    "last_traded_price": 7301.6,
+    "yes_price": 7301.5,
+    "volume": {
+        "max": "8398.90",
+        "min": "7301.50",
+        "volume": 0.0199
+    }
+},
+QLC {
+    "highest_buy_bid": 0.76,
+    "lowest_sell_bid": 0.92,
+    "last_traded_price": 0.93,
+    "yes_price": 0.95,
+    "volume": {
+        "max": "0.98",
+        "min": "0.72",
+        "volume": 8466.28
+    }
+},
+POWR {
+    "highest_buy_bid": 20.65,
+    "lowest_sell_bid": 22.95,
+    "last_traded_price": 20.65,
+    "yes_price": 20.52,
+    "volume": {
+        "max": "22.70",
+        "min": "20.52",
+        "volume": 184.97
+    }
+},
+WPR {
+    "highest_buy_bid": 0.06,
+    "lowest_sell_bid": 0.07,
+    "last_traded_price": 0.07,
+    "yes_price": 0.07,
+    "volume": {
+        "max": "0.07",
+        "min": "0.06",
+        "volume": 86332
+    }
+},
+WAVES {
+    "highest_buy_bid": 486,
+    "lowest_sell_bid": 555,
+    "last_traded_price": 485,
+    "yes_price": 480.29,
+    "volume": {
+        "max": "560.00",
+        "min": "480.29",
+        "volume": 2.94
+    }
+},
+WAN {
+    "highest_buy_bid": 20.81,
+    "lowest_sell_bid": 21.79,
+    "last_traded_price": 20.81,
+    "yes_price": 20.59,
+    "volume": {
+        "max": "20.81",
+        "min": "20.59",
+        "volume": 5.01
+    }
+},
+ACT {
+    "highest_buy_bid": 0.21,
+    "lowest_sell_bid": 0.23,
+    "last_traded_price": 0.23,
+    "yes_price": 0.22,
+    "volume": {
+        "max": "0.23",
+        "min": "0.21",
+        "volume": 7581.04
+    }
+},
+XEM {
+    "highest_buy_bid": 4.1,
+    "lowest_sell_bid": 4.54,
+    "last_traded_price": 4.54,
+    "yes_price": 4.54,
+    "volume": {
+        "max": "4.54",
+        "min": "4.07",
+        "volume": 172.57
+    }
+},
+XVG {
+    "highest_buy_bid": 0.317,
+    "lowest_sell_bid": 0.333,
+    "last_traded_price": 0.333,
+    "yes_price": 0.32,
+    "volume": {
+        "max": "0.34",
+        "min": "0.32",
+        "volume": 1167.6
+    }
+},
+BLZ {
+    "highest_buy_bid": 8.39,
+    "lowest_sell_bid": 9.4,
+    "last_traded_price": 9.4,
+    "yes_price": 8.21,
+    "volume": {
+        "max": "9.50",
+        "min": "8.21",
+        "volume": 83.66
+    }
+},
+SUB {
+    "highest_buy_bid": 0.07,
+    "lowest_sell_bid": 0.08,
+    "last_traded_price": 0.08,
+    "yes_price": 0.08,
+    "volume": {
+        "max": "0.08",
+        "min": "0.07",
+        "volume": 45321.01
+    }
+},
+LRC {
+    "highest_buy_bid": 35.35,
+    "lowest_sell_bid": 37.5,
+    "last_traded_price": 35.35,
+    "yes_price": 37.5,
+    "volume": {
+        "max": "37.50",
+        "min": "35.35",
+        "volume": 152.51
+    }
+},
+NEXO {
+    "highest_buy_bid": 61,
+    "lowest_sell_bid": 73.99,
+    "last_traded_price": 61,
+    "yes_price": 61,
+    "volume": {
+        "max": "73.99",
+        "min": "61.00",
+        "volume": 0.21
+    }
+},
+EFX {
+    "highest_buy_bid": 0.38,
+    "lowest_sell_bid": 0.4,
+    "last_traded_price": 0.38,
+    "yes_price": 0.39,
+    "volume": {
+        "max": "0.39",
+        "min": "0.38",
+        "volume": 3407.05
+    }
+},
+CPX {
+    "highest_buy_bid": 0.35,
+    "lowest_sell_bid": 0.36,
+    "last_traded_price": 0.36,
+    "yes_price": 0.36,
+    "volume": {
+        "max": "0.36",
+        "min": "0.36",
+        "volume": 0
+    }
+},
+ZRX {
+    "highest_buy_bid": 29.8,
+    "lowest_sell_bid": 30.79,
+    "last_traded_price": 30.6,
+    "yes_price": 31,
+    "volume": {
+        "max": "31.00",
+        "min": "29.60",
+        "volume": 253.05
+    }
+},
+REP {
+    "highest_buy_bid": 701.09,
+    "lowest_sell_bid": 750.09,
+    "last_traded_price": 750.09,
+    "yes_price": 700.96,
+    "volume": {
+        "max": "750.09",
+        "min": "700.96",
+        "volume": 5.67
+    }
+},
+LOOM {
+    "highest_buy_bid": 3.2,
+    "lowest_sell_bid": 3.84,
+    "last_traded_price": 3.84,
+    "yes_price": 3.45,
+    "volume": {
+        "max": "3.84",
+        "min": "3.16",
+        "volume": 1073
+    }
+},
+EOSD {
+    "highest_buy_bid": 0.04,
+    "lowest_sell_bid": 0.05,
+    "last_traded_price": 0.05,
+    "yes_price": 0.05,
+    "volume": {
+        "max": "0.05",
+        "min": "0.04",
+        "volume": 105832.09
+    }
+},
+STORM {
+    "highest_buy_bid": 0.74,
+    "lowest_sell_bid": 0.819,
+    "last_traded_price": 0.74,
+    "yes_price": 0.75,
+    "volume": {
+        "max": "0.819",
+        "min": "0.740",
+        "volume": 373.26
+    }
+},
+GNT {
+    "highest_buy_bid": 19.51,
+    "lowest_sell_bid": 22.86,
+    "last_traded_price": 22.86,
+    "yes_price": 22.86,
+    "volume": {
+        "max": "22.86",
+        "min": "22.86",
+        "volume": 0
+    }
+},
+QTUM {
+    "highest_buy_bid": 310,
+    "lowest_sell_bid": 374.97,
+    "last_traded_price": 310,
+    "yes_price": 375,
+    "volume": {
+        "max": "377.99",
+        "min": "309.70",
+        "volume": 3.698
+    }
+},
+QKC {
+    "highest_buy_bid": 0.89,
+    "lowest_sell_bid": 0.93,
+    "last_traded_price": 0.9,
+    "yes_price": 0.9,
+    "volume": {
+        "max": "0.90",
+        "min": "0.89",
+        "volume": 9567.52
+    }
+},
+LSK {
+    "highest_buy_bid": 95,
+    "lowest_sell_bid": 118.8,
+    "last_traded_price": 100.09,
+    "yes_price": 102,
+    "volume": {
+        "max": "125.00",
+        "min": "100.09",
+        "volume": 14.45
+    }
+},
+NPXS {
+    "highest_buy_bid": 38.6,
+    "lowest_sell_bid": 47.999,
+    "last_traded_price": 38.6,
+    "yes_price": 35.5,
+    "volume": {
+        "max": "49.499",
+        "min": "35.500",
+        "volume": 25.568
+    }
+},
+ETC {
+    "highest_buy_bid": 2980.01,
+    "lowest_sell_bid": 3289.99,
+    "last_traded_price": 3010,
+    "yes_price": 2945,
+    "volume": {
+        "max": "3370.00",
+        "min": "2945.00",
+        "volume": 15.6292
+    }
+},
+DENT {
+    "highest_buy_bid": 0.088,
+    "lowest_sell_bid": 0.092,
+    "last_traded_price": 0.093,
+    "yes_price": 0.086,
+    "volume": {
+        "max": "0.093",
+        "min": "0.086",
+        "volume": 404195
+    }
+},
+CLOAK {
+    "highest_buy_bid": 13.1,
+    "lowest_sell_bid": 13.11,
+    "last_traded_price": 13.1,
+    "yes_price": 13.09,
+    "volume": {
+        "max": "13.10",
+        "min": "13.09",
+        "volume": 0.01
+    }
+},
+KMD {
+    "highest_buy_bid": 25.59,
+    "lowest_sell_bid": 28.4,
+    "last_traded_price": 28.69,
+    "yes_price": 25.59,
+    "volume": {
+        "max": "28.69",
+        "min": "25.59",
+        "volume": 33.8
+    }
+},
+GRS {
+    "highest_buy_bid": 25.69,
+    "lowest_sell_bid": 34,
+    "last_traded_price": 25.69,
+    "yes_price": 25.69,
+    "volume": {
+        "max": "34.99",
+        "min": "25.69",
+        "volume": 5.63
+    }
+},
+RAM {
+    "highest_buy_bid": 0.027,
+    "lowest_sell_bid": 0.029,
+    "last_traded_price": 0.027,
+    "yes_price": 0.029,
+    "volume": {
+        "max": "0.029",
+        "min": "0.027",
+        "volume": 46310
+    }
+},
+LET {
+    "highest_buy_bid": 0.12,
+    "lowest_sell_bid": 0.13,
+    "last_traded_price": 0.13,
+    "yes_price": 0.12,
+    "volume": {
+        "max": "0.13",
+        "min": "0.11",
+        "volume": 14194.89
+    }
+},
+SOUL {
+    "highest_buy_bid": 39.49,
+    "lowest_sell_bid": 39.5,
+    "last_traded_price": 39.49,
+    "yes_price": 40,
+    "volume": {
+        "max": "40.00",
+        "min": "35.00",
+        "volume": 109.63
+    }
+},
+PHX {
+    "highest_buy_bid": 0.219,
+    "lowest_sell_bid": 0.248,
+    "last_traded_price": 0.248,
+    "yes_price": 0.23,
+    "volume": {
+        "max": "0.24",
+        "min": "0.22",
+        "volume": 402
+    }
+},
+VET {
+    "highest_buy_bid": 1.9,
+    "lowest_sell_bid": 2.05,
+    "last_traded_price": 2.05,
+    "yes_price": 2.268,
+    "volume": {
+        "max": "3.000",
+        "min": "2.268",
+        "volume": 211464
+    }
+},
+BCHABC {
+    "highest_buy_bid": 11301,
+    "lowest_sell_bid": 12748.97,
+    "last_traded_price": 12748.97,
+    "yes_price": 12750,
+    "volume": {
+        "max": "12750.00",
+        "min": "11250.01",
+        "volume": 2.5096
+    }
+},
+BCHSV {
+    "highest_buy_bid": 6070,
+    "lowest_sell_bid": 7500,
+    "last_traded_price": 7500,
+    "yes_price": 7500,
+    "volume": {
+        "max": "7500.00",
+        "min": "6477.45",
+        "volume": 0.0387
+    }
+},
+IXT {
+    "highest_buy_bid": 0.4,
+    "lowest_sell_bid": 0.41,
+    "last_traded_price": 0.41,
+    "yes_price": 0.4,
+    "volume": {
+        "max": "0.41",
+        "min": "0.34",
+        "volume": 18544.59
+    }
+},
+SKY {
+    "highest_buy_bid": 6.71,
+    "lowest_sell_bid": 7.25,
+    "last_traded_price": 6.71,
+    "yes_price": 6.7,
+    "volume": {
+        "max": "7.30",
+        "min": "6.70",
+        "volume": 1354.93
+    }
+},
+ODE {
+    "highest_buy_bid": 0.09,
+    "lowest_sell_bid": 0.1,
+    "last_traded_price": 0.1,
+    "yes_price": 0.1,
+    "volume": {
+        "max": "0.10",
+        "min": "0.09",
+        "volume": 79611.33
+    }
+},
+RFR {
+    "highest_buy_bid": 0.134,
+    "lowest_sell_bid": 0.14,
+    "last_traded_price": 0.14,
+    "yes_price": 0.15,
+    "volume": {
+        "max": "0.150",
+        "min": "0.140",
+        "volume": 2138
+    }
+},
+BTT {
+    "highest_buy_bid": 8.762e-05,
+    "lowest_sell_bid": 9.077e-05,
+    "last_traded_price": 9.077e-05,
+    "yes_price": 8.951e-05,
+    "volume": {
+        "max": "0.00009295",
+        "min": "0.00008660",
+        "volume": 1466802747
+    }
+},
+FET {
+    "highest_buy_bid": 7.85,
+    "lowest_sell_bid": 9.49,
+    "last_traded_price": 7.83,
+    "yes_price": 9.75,
+    "volume": {
+        "max": "9.75",
+        "min": "7.83",
+        "volume": 570.13
+    }
+},
+TEL {
+    "highest_buy_bid": 0.151,
+    "lowest_sell_bid": 0.152,
+    "last_traded_price": 0.151,
+    "yes_price": 0.15,
+    "volume": {
+        "max": "0.1510",
+        "min": "0.1470",
+        "volume": 66802
+    }
+},
+ZCO {
+    "highest_buy_bid": 0.027,
+    "lowest_sell_bid": 0.028,
+    "last_traded_price": 0.027,
+    "yes_price": 0.028,
+    "volume": {
+        "max": "0.0280",
+        "min": "0.0260",
+        "volume": 161251
+    }
+},
+PHB {
+    "highest_buy_bid": 0.219,
+    "lowest_sell_bid": 0.248,
+    "last_traded_price": 0.248,
+    "yes_price": 0.23,
+    "volume": {
+        "max": "0.24",
+        "min": "0.22",
+        "volume": 402
+    }
+},
+BNB {
+    "highest_buy_bid": 26128.81,
+    "lowest_sell_bid": 26494.59,
+    "last_traded_price": 26128.81,
+    "yes_price": 25801.14,
+    "volume": {
+        "max": "27248.99",
+        "min": "25505.35",
+        "volume": 3706.1245
+    }
+},
+NRG {
+    "highest_buy_bid": 142,
+    "lowest_sell_bid": 146.06,
+    "last_traded_price": 141.56,
+    "yes_price": 141.56,
+    "volume": {
+        "max": "141.56",
+        "min": "141.56",
+        "volume": 0
+    }
+},
+PART {
+    "highest_buy_bid": 32.3,
+    "lowest_sell_bid": 40.5,
+    "last_traded_price": 34.71,
+    "yes_price": 38,
+    "volume": {
+        "max": "42.00",
+        "min": "31.63",
+        "volume": 31.79
+    }
+},
+FUN {
+    "highest_buy_bid": 0.711,
+    "lowest_sell_bid": 0.772,
+    "last_traded_price": 0.71,
+    "yes_price": 0.72,
+    "volume": {
+        "max": "0.7720",
+        "min": "0.7100",
+        "volume": 6962
+    }
+},
+ZEBI {
+    "highest_buy_bid": 0.027,
+    "lowest_sell_bid": 0.028,
+    "last_traded_price": 0.027,
+    "yes_price": 0.028,
+    "volume": {
+        "max": "0.0280",
+        "min": "0.0260",
+        "volume": 161251
+    }
+},
+CVT {
+    "highest_buy_bid": 0.131,
+    "lowest_sell_bid": 0.138,
+    "last_traded_price": 0.138,
+    "yes_price": 0.141,
+    "volume": {
+        "max": "0.1410",
+        "min": "0.1260",
+        "volume": 99471
+    }
+},
+SERO {
+    "highest_buy_bid": 0.79,
+    "lowest_sell_bid": 7,
+    "last_traded_price": 10,
+    "yes_price": 10,
+    "volume": {
+        "max": "10.00",
+        "min": "10.00",
+        "volume": 0
+    }
+},
+ATT {
+    "highest_buy_bid": 0.41,
+    "lowest_sell_bid": 0.43,
+    "last_traded_price": 0.42,
+    "yes_price": 0.43,
+    "volume": {
+        "max": "0.43",
+        "min": "0.41",
+        "volume": 65435.7
+    }
+},
+TST {
+    "highest_buy_bid": 3.96,
+    "lowest_sell_bid": 4.7,
+    "last_traded_price": 4.7,
+    "volume": {}
+},
+COMP {
+    "highest_buy_bid": 4894.9,
+    "lowest_sell_bid": 4973.5,
+    "last_traded_price": 4988,
+    "yes_price": 5162.2,
+    "volume": {
+        "max": "5209.00",
+        "min": "4988.00",
+        "volume": 0.1235
+    }
+},
+BAL {
+    "highest_buy_bid": 491,
+    "lowest_sell_bid": 540,
+    "last_traded_price": 520,
+    "yes_price": 520,
+    "volume": {
+        "max": "520.00",
+        "min": "520.00",
+        "volume": 0
+    }
+},
+SYLO {
+    "highest_buy_bid": 0.295,
+    "lowest_sell_bid": 0.309,
+    "last_traded_price": 0.309,
+    "yes_price": 0.309,
+    "volume": {
+        "max": "0.309",
+        "min": "0.295",
+        "volume": 323
+    }
+},
+MATIC {
+    "highest_buy_bid": 77.011,
+    "lowest_sell_bid": 78,
+    "last_traded_price": 78.332,
+    "yes_price": 79.49,
+    "volume": {
+        "max": "79.939",
+        "min": "77.000",
+        "volume": 182825.38
+    }
+},
+SNX {
+    "highest_buy_bid": 322.49,
+    "lowest_sell_bid": 327.4,
+    "last_traded_price": 329.57,
+    "yes_price": 333.84,
+    "volume": {
+        "max": "346.18",
+        "min": "327.86",
+        "volume": 34.1
+    }
+},
+BAT {
+    "highest_buy_bid": 34.44,
+    "lowest_sell_bid": 34.93,
+    "last_traded_price": 34.41,
+    "yes_price": 35.88,
+    "volume": {
+        "max": "35.99",
+        "min": "34.21",
+        "volume": 241438.65
+    }
+},
+BNT {
+    "highest_buy_bid": 47.21,
+    "lowest_sell_bid": 47.93,
+    "last_traded_price": 47.93,
+    "yes_price": 49.96,
+    "volume": {
+        "max": "49.96",
+        "min": "46.48",
+        "volume": 13794.77
+    }
+},
+CHR {
+    "highest_buy_bid": 17.22,
+    "lowest_sell_bid": 17.51,
+    "last_traded_price": 17.51,
+    "yes_price": 18.12,
+    "volume": {
+        "max": "18.22",
+        "min": "17.30",
+        "volume": 1961629.4
+    }
+},
+LINK {
+    "highest_buy_bid": 631,
+    "lowest_sell_bid": 684.99,
+    "last_traded_price": 635,
+    "yes_price": 710,
+    "volume": {
+        "max": "710.00",
+        "min": "635.00",
+        "volume": 44.03
+    }
+},
+WBTC {
+    "highest_buy_bid": 1641936.19,
+    "lowest_sell_bid": 1737645,
+    "last_traded_price": 1737645,
+    "yes_price": 1756739.08,
+    "volume": {
+        "max": "1756739.08",
+        "min": "1620700.00",
+        "volume": 0.00035618
+    }
+},
+BNS {
+    "highest_buy_bid": 0.0406,
+    "lowest_sell_bid": 0.041,
+    "last_traded_price": 0.0409,
+    "yes_price": 0.0402,
+    "volume": {
+        "max": "0.0409",
+        "min": "0.0399",
+        "volume": 212091748.75
+    }
+},
+BNSD {
+    "highest_buy_bid": 0.326,
+    "lowest_sell_bid": 0.333,
+    "last_traded_price": 0.33,
+    "yes_price": 0.299,
+    "volume": {
+        "max": "0.352",
+        "min": "0.293",
+        "volume": 63653616
+    }
+},
+UNI {
+    "highest_buy_bid": 758,
+    "lowest_sell_bid": 762.91,
+    "last_traded_price": 772.61,
+    "yes_price": 801.78,
+    "volume": {
+        "max": "801.78",
+        "min": "767.02",
+        "volume": 15.33
+    }
+},
+YFV {
+    "highest_buy_bid": 1500,
+    "lowest_sell_bid": 1500,
+    "last_traded_price": 1900,
+    "yes_price": 0,
+    "volume": {}
+},
+YFI {
+    "highest_buy_bid": 917472.56,
+    "lowest_sell_bid": 931580.66,
+    "last_traded_price": 915826.21,
+    "yes_price": 949087.25,
+    "volume": {
+        "max": "979961.15",
+        "min": "906372.08",
+        "volume": 3.60617
+    }
+},
+YFII {
+    "highest_buy_bid": 155938,
+    "lowest_sell_bid": 159214,
+    "last_traded_price": 158932,
+    "yes_price": 163869,
+    "volume": {
+        "max": "165623.00",
+        "min": "156159.00",
+        "volume": 78.7853
+    }
+},
+UMA {
+    "highest_buy_bid": 1040,
+    "lowest_sell_bid": 1060,
+    "last_traded_price": 1000,
+    "yes_price": 0,
+    "volume": {}
+},
+AAVE {
+    "highest_buy_bid": 8205.45,
+    "lowest_sell_bid": 8335.18,
+    "last_traded_price": 8206.39,
+    "yes_price": 8687.62,
+    "volume": {
+        "max": "8740.48",
+        "min": "8127.22",
+        "volume": 1489.6054
+    }
+},
+WNXM {
+    "highest_buy_bid": 4000,
+    "lowest_sell_bid": 4000,
+    "last_traded_price": 4000,
+    "yes_price": 0,
+    "volume": {}
+},
+REN {
+    "highest_buy_bid": 20,
+    "lowest_sell_bid": 20,
+    "last_traded_price": 19,
+    "yes_price": 0,
+    "volume": {}
+},
+SRM {
+    "highest_buy_bid": 160,
+    "lowest_sell_bid": 161,
+    "last_traded_price": 140,
+    "yes_price": 0,
+    "volume": {}
+},
+AMPL {
+    "highest_buy_bid": 55,
+    "lowest_sell_bid": 62,
+    "last_traded_price": 54,
+    "yes_price": 0,
+    "volume": {}
+},
+RFUEL {
+    "highest_buy_bid": 0.95,
+    "lowest_sell_bid": 1.04,
+    "last_traded_price": 1.03,
+    "yes_price": 0.92,
+    "volume": {
+        "max": "1.04",
+        "min": "0.92",
+        "volume": 1315.92
+    }
+},
+OM {
+    "highest_buy_bid": 4.69,
+    "lowest_sell_bid": 4.94,
+    "last_traded_price": 4.62,
+    "yes_price": 4.62,
+    "volume": {
+        "max": "5.10",
+        "min": "4.62",
+        "volume": 911.46
+    }
+},
+BNSG {
+    "highest_buy_bid": 8.14,
+    "lowest_sell_bid": 8.95,
+    "last_traded_price": 8.14,
+    "yes_price": 8.15,
+    "volume": {
+        "max": "8.25",
+        "min": "8.14",
+        "volume": 106
+    }
+},
+ORO {
+    "highest_buy_bid": 0.65,
+    "lowest_sell_bid": 0.7,
+    "last_traded_price": 0.7,
+    "yes_price": 0.66,
+    "volume": {
+        "max": "0.70",
+        "min": "0.60",
+        "volume": 4011.71
+    }
+},
+CAS {
+    "highest_buy_bid": 0.76,
+    "lowest_sell_bid": 0.78,
+    "last_traded_price": 0.76,
+    "yes_price": 0.75,
+    "volume": {
+        "max": "0.79",
+        "min": "0.74",
+        "volume": 131634.37
+    }
+},
+SPRINK {
+    "highest_buy_bid": 1.16,
+    "lowest_sell_bid": 1.31,
+    "last_traded_price": 1.14,
+    "yes_price": 1.14,
+    "volume": {
+        "max": "1.14",
+        "min": "1.14",
+        "volume": 42.02
+    }
+},
+KSM {
+    "highest_buy_bid": 24000,
+    "lowest_sell_bid": 24000,
+    "last_traded_price": 24000,
+    "yes_price": 0,
+    "volume": {
+        "max": 0,
+        "min": 1000000000,
+        "volume": 0
+    }
+},
+DOT {
+    "highest_buy_bid": 694.08,
+    "lowest_sell_bid": 704.35,
+    "last_traded_price": 694.08,
+    "yes_price": 736.96,
+    "volume": {
+        "max": "742.25",
+        "min": "692.06",
+        "volume": 18963.247
+    }
+},
+POC {
+    "highest_buy_bid": 13.03,
+    "lowest_sell_bid": 14.34,
+    "last_traded_price": 13.02,
+    "yes_price": 14.5,
+    "volume": {
+        "max": "14.50",
+        "min": "13.02",
+        "volume": 1.1
+    }
+},
+PCNT {
+    "highest_buy_bid": 1.01,
+    "lowest_sell_bid": 1.1,
+    "last_traded_price": 1.1,
+    "yes_price": 1.1,
+    "volume": {
+        "max": "1.10",
+        "min": "0.99",
+        "volume": 517.26
+    }
+},
+USDC {
+    "highest_buy_bid": 87.22,
+    "lowest_sell_bid": 88.24,
+    "last_traded_price": 88.24,
+    "yes_price": 88.23,
+    "volume": {
+        "max": "88.40",
+        "min": "85.34",
+        "volume": 174951.76
+    }
+},
+FIL {
+    "highest_buy_bid": 688.6,
+    "lowest_sell_bid": 700.29,
+    "last_traded_price": 700.29,
+    "yes_price": 747.03,
+    "volume": {
+        "max": "753.21",
+        "min": "687.73",
+        "volume": 45363.798
+    }
+},
+XTZ {
+    "highest_buy_bid": 156.66,
+    "lowest_sell_bid": 159.2,
+    "last_traded_price": 159.2,
+    "yes_price": 151.96,
+    "volume": {
+        "max": "163.55",
+        "min": "148.66",
+        "volume": 109080.16
+    }
+},
+EGLD {
+    "highest_buy_bid": 4988.67,
+    "lowest_sell_bid": 5067.83,
+    "last_traded_price": 4988.67,
+    "yes_price": 5143.68,
+    "volume": {
+        "max": "5201.01",
+        "min": "4942.18",
+        "volume": 992.182
+    }
+},
+ENJ {
+    "highest_buy_bid": 58.5,
+    "lowest_sell_bid": 58.58,
+    "last_traded_price": 58.58,
+    "yes_price": 54.67,
+    "volume": {
+        "max": "63.91",
+        "min": "54.16",
+        "volume": 378824.43
+    }
+},
+CAKE {
+    "highest_buy_bid": 344,
+    "lowest_sell_bid": 347,
+    "last_traded_price": 347.06,
+    "yes_price": 353.85,
+    "volume": {
+        "max": "357.46",
+        "min": "344.00",
+        "volume": 13392.31
+    }
+},
+GRT {
+    "highest_buy_bid": 10.34,
+    "lowest_sell_bid": 10.52,
+    "last_traded_price": 10.34,
+    "yes_price": 10.46,
+    "volume": {
+        "max": "11.12",
+        "min": "10.22",
+        "volume": 2169136.06
+    }
+},
+RUNE {
+    "highest_buy_bid": 225,
+    "lowest_sell_bid": 227.11,
+    "last_traded_price": 227.11,
+    "yes_price": 235.57,
+    "volume": {
+        "max": "241.75",
+        "min": "222.47",
+        "volume": 151213.93
+    }
+},
+NEAR {
+    "highest_buy_bid": 381,
+    "lowest_sell_bid": 386.13,
+    "last_traded_price": 386.13,
+    "yes_price": 398.65,
+    "volume": {
+        "max": "413.03",
+        "min": "380.42",
+        "volume": 86209.12
+    }
+},
+1INCH {
+    "highest_buy_bid": 67.73,
+    "lowest_sell_bid": 68.88,
+    "last_traded_price": 67.73,
+    "yes_price": 68.19,
+    "volume": {
+        "max": "71.88",
+        "min": "66.35",
+        "volume": 341494.84
+    }
+},
+AVA {
+    "highest_buy_bid": 71.37,
+    "lowest_sell_bid": 72.23,
+    "last_traded_price": 71.88,
+    "yes_price": 72.67,
+    "volume": {
+        "max": "74.40",
+        "min": "70.68",
+        "volume": 136247.69
+    }
+},
+ATOM {
+    "highest_buy_bid": 893.01,
+    "lowest_sell_bid": 905.51,
+    "last_traded_price": 892.49,
+    "yes_price": 889.06,
+    "volume": {
+        "max": "924.22",
+        "min": "886.02",
+        "volume": 20039.84
+    }
+},
+BAND {
+    "highest_buy_bid": 148.14,
+    "lowest_sell_bid": 150.55,
+    "last_traded_price": 148.14,
+    "yes_price": 149.41,
+    "volume": {
+        "max": "161.26",
+        "min": "144.93",
+        "volume": 60668.92
+    }
+},
+TWT {
+    "highest_buy_bid": 103.74,
+    "lowest_sell_bid": 104.15,
+    "last_traded_price": 101.82,
+    "yes_price": 93,
+    "volume": {
+        "max": "103.37",
+        "min": "88.24",
+        "volume": 36400.54
+    }
+},
+ALPHA {
+    "highest_buy_bid": 14.34,
+    "lowest_sell_bid": 14.59,
+    "last_traded_price": 14.28,
+    "yes_price": 14.95,
+    "volume": {
+        "max": "15.00",
+        "min": "14.11",
+        "volume": 389587.62
+    }
+},
+ZEC {
+    "highest_buy_bid": 5600.86,
+    "lowest_sell_bid": 5700,
+    "last_traded_price": 5600.86,
+    "yes_price": 5609.37,
+    "volume": {
+        "max": "5699.10",
+        "min": "5363.96",
+        "volume": 1489.17
+    }
+},
+CHZ {
+    "highest_buy_bid": 12.51,
+    "lowest_sell_bid": 12.72,
+    "last_traded_price": 12.48,
+    "yes_price": 11.78,
+    "volume": {
+        "max": "13.02",
+        "min": "11.51",
+        "volume": 1142454.59
+    }
+},
+WIN {
+    "highest_buy_bid": 0.0124,
+    "lowest_sell_bid": 0.0127,
+    "last_traded_price": 0.0124,
+    "yes_price": 0.013,
+    "volume": {
+        "max": "0.0130",
+        "min": "0.0123",
+        "volume": 13064436
+    }
+},
+SOL {
+    "highest_buy_bid": 3340.01,
+    "lowest_sell_bid": 3375.4,
+    "last_traded_price": 3375.4,
+    "yes_price": 3448.23,
+    "volume": {
+        "max": "3531.43",
+        "min": "3323.11",
+        "volume": 27672.6016
+    }
+},
+MKR {
+    "highest_buy_bid": 90750.69,
+    "lowest_sell_bid": 91982.82,
+    "last_traded_price": 91806.77,
+    "yes_price": 94535.45,
+    "volume": {
+        "max": "94623.47",
+        "min": "90298.91",
+        "volume": 426.6794
+    }
+},
+FTT {
+    "highest_buy_bid": 2509.06,
+    "lowest_sell_bid": 2546.76,
+    "last_traded_price": 2509.05,
+    "yes_price": 2637.56,
+    "volume": {
+        "max": "2641.97",
+        "min": "2506.45",
+        "volume": 10204.6228
+    }
+},
+MANA {
+    "highest_buy_bid": 85.44,
+    "lowest_sell_bid": 86,
+    "last_traded_price": 85.41,
+    "yes_price": 87.4,
+    "volume": {
+        "max": "88.70",
+        "min": "84.10",
+        "volume": 117033.705
+    }
+},
+CRV {
+    "highest_buy_bid": 114.3,
+    "lowest_sell_bid": 116.3,
+    "last_traded_price": 114.3,
+    "yes_price": 119.4,
+    "volume": {
+        "max": "122.13",
+        "min": "112.57",
+        "volume": 369436.061
+    }
+},
+SAND {
+    "highest_buy_bid": 111,
+    "lowest_sell_bid": 112.85,
+    "last_traded_price": 111,
+    "yes_price": 112.87,
+    "volume": {
+        "max": "116.49",
+        "min": "109.07",
+        "volume": 329540.714
+    }
+},
+BUSD {
+    "highest_buy_bid": 86.8,
+    "lowest_sell_bid": 88.23,
+    "last_traded_price": 88,
+    "yes_price": 88.14,
+    "volume": {
+        "max": "88.34",
+        "min": "86.13",
+        "volume": 65571.14
+    }
+},
+ICP {
+    "highest_buy_bid": 691,
+    "lowest_sell_bid": 696.4,
+    "last_traded_price": 694.65,
+    "yes_price": 714.97,
+    "volume": {
+        "max": "721.10",
+        "min": "683.58",
+        "volume": 53914.8111
+    }
+},
+PUNDIX {
+    "highest_buy_bid": 38.6,
+    "lowest_sell_bid": 47.999,
+    "last_traded_price": 38.6,
+    "yes_price": 35.5,
+    "volume": {}
+},
+GLM {
+    "highest_buy_bid": 19.51,
+    "lowest_sell_bid": 22.86,
+    "last_traded_price": 22.86,
+    "yes_price": 22.86,
+    "volume": {
+        "max": "22.86",
+        "min": "22.86",
+        "volume": 0
+    }
+},
+ALGO {
+    "highest_buy_bid": 29.05,
+    "lowest_sell_bid": 29.32,
+    "last_traded_price": 29.05,
+    "yes_price": 29.44,
+    "volume": {
+        "max": "30.14",
+        "min": "28.17",
+        "volume": 568269.5596
+    }
+},
+THETA {
+    "highest_buy_bid": 120.55,
+    "lowest_sell_bid": 122.12,
+    "last_traded_price": 119.61,
+    "yes_price": 124.2,
+    "volume": {
+        "max": "126.01",
+        "min": "118.99",
+        "volume": 58339.5597
+    }
+},
+LUNA {
+    "highest_buy_bid": 180.51,
+    "lowest_sell_bid": 189.92,
+    "last_traded_price": 180.51,
+    "yes_price": 184.01,
+    "volume": {
+        "max": "193.92",
+        "min": "175.00",
+        "volume": 1024.3651
+    }
+},
+SHIB {
+    "highest_buy_bid": 0.001024,
+    "lowest_sell_bid": 0.001025,
+    "last_traded_price": 0.001025,
+    "yes_price": 0.001031,
+    "volume": {
+        "max": "0.001050",
+        "min": "0.001021",
+        "volume": 34562543521
+    }
+},
+BAKE {
+    "highest_buy_bid": 29.8,
+    "lowest_sell_bid": 30.16,
+    "last_traded_price": 29.99,
+    "yes_price": 30.29,
+    "volume": {
+        "max": "31.49",
+        "min": "29.81",
+        "volume": 485713.882
+    }
+},
+SAFEMOON {
+    "highest_buy_bid": 5e-05,
+    "lowest_sell_bid": 0.0003,
+    "last_traded_price": 0.000169,
+    "yes_price": 0,
+    "volume": {}
+},
+DCR {
+    "highest_buy_bid": 2339.85,
+    "lowest_sell_bid": 2344.89,
+    "last_traded_price": 2344.89,
+    "yes_price": 2397.78,
+    "volume": {
+        "max": "2406.60",
+        "min": "2281.24",
+        "volume": 3322.187
+    }
+},
+HBAR {
+    "highest_buy_bid": 6.17,
+    "lowest_sell_bid": 6.28,
+    "last_traded_price": 6.17,
+    "yes_price": 6.25,
+    "volume": {
+        "max": "6.35",
+        "min": "6.16",
+        "volume": 3192386.4846
+    }
+},
+KAI {
+    "highest_buy_bid": 0.84,
+    "lowest_sell_bid": 0.93,
+    "last_traded_price": 0.84,
+    "yes_price": 0.94,
+    "volume": {
+        "max": "0.96",
+        "min": "0.83",
+        "volume": 26024.6941
+    }
+},
+ORBS {
+    "highest_buy_bid": 2.84,
+    "lowest_sell_bid": 3.19,
+    "last_traded_price": 2.83,
+    "yes_price": 2.9,
+    "volume": {
+        "max": "3.20",
+        "min": "2.83",
+        "volume": 31.6996
+    }
+},
+ODDZ {
+    "highest_buy_bid": 1.86,
+    "lowest_sell_bid": 1.88,
+    "last_traded_price": 1.86,
+    "yes_price": 1.85,
+    "volume": {
+        "max": "1.88",
+        "min": "1.68",
+        "volume": 2219.6
+    }
+},
+FOHO {
+    "highest_buy_bid": 1.27,
+    "lowest_sell_bid": 1.29,
+    "last_traded_price": 1.3,
+    "yes_price": 1.38,
+    "volume": {
+        "max": "1.38",
+        "min": "1.22",
+        "volume": 1967.6138
+    }
+},
+C98 {
+    "highest_buy_bid": 90,
+    "lowest_sell_bid": 90,
+    "last_traded_price": 97,
+    "yes_price": 97,
+    "volume": {
+        "max": "97.00",
+        "min": "97.00",
+        "volume": 0
+    }
+},
+JULD {
+    "highest_buy_bid": 0.23,
+    "lowest_sell_bid": 0.24,
+    "last_traded_price": 0.23,
+    "yes_price": 0.23,
+    "volume": {
+        "max": "0.24",
+        "min": "0.23",
+        "volume": 68130.0037
+    }
+},
+DAI {
+    "highest_buy_bid": 80.07,
+    "lowest_sell_bid": 84.64,
+    "last_traded_price": 84.64,
+    "yes_price": 80.05,
+    "volume": {
+        "max": "84.64",
+        "min": "80.05",
+        "volume": 274.5641
+    }
+},
+CRPT {
+    "highest_buy_bid": 14.03,
+    "lowest_sell_bid": 16.44,
+    "last_traded_price": 14.04,
+    "yes_price": 14.03,
+    "volume": {
+        "max": "14.04",
+        "min": "14.03",
+        "volume": 52.8977
+    }
+},
+CRIC {
+    "highest_buy_bid": 0.13,
+    "lowest_sell_bid": 0.14,
+    "last_traded_price": 0.14,
+    "yes_price": 0.12,
+    "volume": {
+        "max": "0.14",
+        "min": "0.12",
+        "volume": 8464.1483
+    }
+},
+RAGE {
+    "highest_buy_bid": 0.2,
+    "lowest_sell_bid": 0.21,
+    "last_traded_price": 0.21,
+    "yes_price": 0.21,
+    "volume": {
+        "max": "0.22",
+        "min": "0.21",
+        "volume": 17163.7815
+    }
+},
+PUSH {
+    "highest_buy_bid": 35,
+    "lowest_sell_bid": 36.9,
+    "last_traded_price": 35,
+    "yes_price": 35,
+    "volume": {
+        "max": "36.90",
+        "min": "34.00",
+        "volume": 85.8432
+    }
+},
+HGET {
+    "highest_buy_bid": 54.6,
+    "lowest_sell_bid": 59.45,
+    "last_traded_price": 58.86,
+    "yes_price": 60.05,
+    "volume": {
+        "max": "60.05",
+        "min": "54.60",
+        "volume": 1.5935
+    }
+},
+AXS {
+    "highest_buy_bid": 5400,
+    "lowest_sell_bid": 5400,
+    "last_traded_price": 5400,
+    "yes_price": 0,
+    "volume": {
+        "max": 0,
+        "min": 1000000000,
+        "volume": 0
+    }
+},
+YGG {
+    "highest_buy_bid": 550,
+    "lowest_sell_bid": 550,
+    "last_traded_price": 550,
+    "yes_price": 0,
+    "volume": {
+        "max": 0,
+        "min": 1000000000,
+        "volume": 0
+    }
+},
+BECOIN {
+    "highest_buy_bid": 0.28,
+    "lowest_sell_bid": 0.3,
+    "last_traded_price": 0.28,
+    "yes_price": 0.3,
+    "volume": {
+        "max": "0.30",
+        "min": "0.28",
+        "volume": 915.5025
+    }
+},
+MYNE {
+    "highest_buy_bid": 0.52,
+    "lowest_sell_bid": 0.56,
+    "last_traded_price": 0.52,
+    "yes_price": 0.52,
+    "volume": {
+        "max": "0.56",
+        "min": "0.52",
+        "volume": 300.6428
+    }
+},
+DETO {
+    "highest_buy_bid": 14.35,
+    "lowest_sell_bid": 14.5,
+    "last_traded_price": 14.5,
+    "yes_price": 14.43,
+    "volume": {
+        "max": "14.50",
+        "min": "14.35",
+        "volume": 12.0299
+    }
+},
+SFM {
+    "highest_buy_bid": 0.0305,
+    "lowest_sell_bid": 0.0315,
+    "last_traded_price": 0.0315,
+    "yes_price": 0.0293,
+    "volume": {
+        "max": "0.033000",
+        "min": "0.028800",
+        "volume": 2834100.738
+    }
+},
+GARI {
+    "highest_buy_bid": 7.65,
+    "lowest_sell_bid": 8,
+    "last_traded_price": 7.67,
+    "yes_price": 8,
+    "volume": {
+        "max": "8.00",
+        "min": "7.55",
+        "volume": 10776.8375
+    }
+},
+CNW {
+    "highest_buy_bid": 0.07,
+    "lowest_sell_bid": 0.08,
+    "last_traded_price": 0.076,
+    "yes_price": 0.076,
+    "volume": {
+        "max": "0.077",
+        "min": "0.068",
+        "volume": 34619.77
+    }
+},
+APE {
+    "highest_buy_bid": 835,
+    "lowest_sell_bid": 1500,
+    "last_traded_price": 840,
+    "yes_price": 0,
+    "volume": {}
+},
+UFARM {
+    "highest_buy_bid": 0.82,
+    "lowest_sell_bid": 0.82,
+    "last_traded_price": 0.9,
+    "yes_price": 0,
+    "volume": {}
+},
+RFOX {
+    "highest_buy_bid": 0.99,
+    "lowest_sell_bid": 1.2,
+    "last_traded_price": 0.94,
+    "yes_price": 0.95,
+    "volume": {
+        "max": "1.190",
+        "min": "0.940",
+        "volume": 7835.2771
+    }
+},
+DEP {
+    "highest_buy_bid": 1.037,
+    "lowest_sell_bid": 1.12,
+    "last_traded_price": 1.12,
+    "yes_price": 1.12,
+    "volume": {
+        "max": "1.120",
+        "min": "1.120",
+        "volume": 0
+    }
+},
+TLM {
+    "highest_buy_bid": 2.466,
+    "lowest_sell_bid": 2.539,
+    "last_traded_price": 2.502,
+    "yes_price": 2.47,
+    "volume": {
+        "max": "2.600",
+        "min": "2.470",
+        "volume": 15411.6895
+    }
+},
+TRACE {
+    "highest_buy_bid": 2.5,
+    "lowest_sell_bid": 2.65,
+    "last_traded_price": 2.42,
+    "yes_price": 2.42,
+    "volume": {
+        "max": "2.42",
+        "min": "2.42",
+        "volume": 0
+    }
+},
+LUNC {
+    "highest_buy_bid": 0.0253001,
+    "lowest_sell_bid": 0.02658997,
+    "last_traded_price": 0.02530009,
+    "yes_price": 0.0259794,
+    "volume": {
+        "max": "0.02779999",
+        "min": "0.02509990",
+        "volume": 9808081.9888
+    }
+},
+KLAY {
+    "highest_buy_bid": 21,
+    "lowest_sell_bid": 19,
+    "last_traded_price": 21,
+    "yes_price": 21,
+    "volume": {
+        "max": "21.00",
+        "min": "21.00",
+        "volume": 0
+    }
+},
